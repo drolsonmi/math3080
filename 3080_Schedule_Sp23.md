@@ -4,16 +4,16 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Date   | Lecture | Reading |
 | :----- | :------ | :------ |
 | Jan 9  | What is Data Science?   | Brunton Videos |
-| Jan 11 | Python Basics           | |
-| Jan 13 | Nature of Data          | |
+| Jan 11 | Python Basics           | McKinney, Chapters 2-4 |
+| Jan 13 | Nature of Data          | Leskovec 1.1-1.3 |
 | Jan 16 | MLK Jr. Day - No School | |
-| Jan 18 | Vectors / Matrices      | |
-| Jan 20 | Eigenvalues / Eigenvectors | |
-| Jan 23 | Basic Statistcs Review | |
-| Jan 25 | Correlation | |
-| Jan 27 | More Statistics Review | |
-| Jan 30 | Probability | |
-| Feb 1  | Normal Distributions | |
+| Jan 18 | Vectors / Matrices      | Grus, Chapter 4<br>Phillips, Chapter 3 |
+| Jan 20 | Eigenvalues / Eigenvectors | Phillips, Chapter 3 |
+| Jan 23 | Basic Statistcs Review | Grus, Chapter 5<br>Phillips, Chapter 1 |
+| Jan 25 | Correlation | Grus, Chapter 5 |
+| Jan 27 | More Statistics Review | Phillips, Chapter 1 |
+| Jan 30 | Probability | Grus, Chapter 6<br>Phillips, Chapter 1 |
+| Feb 1  | Normal Distributions | Grus, Chapter 6<br>Phillips, Chapter 1 |
 | Feb 3  | | |
 | Feb 6  | Hypothesis Testing | |
 | Feb 8  | Confidence Intervals | |
