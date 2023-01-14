@@ -20,27 +20,27 @@ These are the topics that we plan to cover this semester:
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
-| Date   | Lecture                       | Reading |
-| :----- | :------                       | :------ |
-| Jan 9  | What is Data Science?         | Brunton Videos |
-| Jan 11 | Python Basics                 | McKinney, Chapters 2-4 |
-| Jan 13 | Nature of Data                | Leskovec 1.1-1.3 |
-| Jan 16 | MLK Jr. Day - No School       | |
-| Jan 18 | Linear Algebra                | Phillips, Chapter 3<br>McKinney, Chapter 4<br>Grus, Chapter 4|
-| Jan 20 | Eigenvalues / Eigenvectors    | Phillips, Chapter 3 |
-| Jan 23 | More Linear Algebra           | Phillips, Chapter 3<br>McKinney, Chapter 4 |
-| Jan 25 | Basic Statistcs Review        | Phillips, Chapter 1<br>Grus, Chapter 5 |
-| Jan 27 | More Statistics Review        | Phillips, Chapter 1 |
-| Jan 30 | Correlation                   | Grus, Chapter 5 |
-| Feb 1  | Probability                   | Grus, Chapter 6<br>Phillips, Chapter 1 |
-| Feb 3  | Normal Distributions          | Grus, Chapter 6<br>Phillips, Chapter 1 |
+| Date   | Lecture                       | Reading                                                       |
+| :----- | :------                       | :------                                                       |
+| Jan 9  | What is Data Science?         | Brunton Videos                                                |
+| Jan 11 | Python Basics                 | McKinney, Chapters 2-4                                        |
+| Jan 13 | Nature of Data                | Leskovec 1.1-1.3                                              |
+| Jan 16 | __MLK Jr. Day - No School__   |                                                               |
+| Jan 18 | Linear Algebra                | Phillips, Chapter 3<br>McKinney, Chapter 4<br>Grus, Chapter 4 |
+| Jan 20 | Eigenvalues / Eigenvectors    | Phillips, Chapter 3                                           |
+| Jan 23 | Modeling with Linear Algebra  | Phillips, Chapter 3<br>McKinney, Chapter 4                    |
+| Jan 25 | Basic Statistcs Review        | Phillips, Chapter 1<br>Grus, Chapter 5                        |
+| Jan 27 | More Statistics Review        | Phillips, Chapter 1                                           |
+| Jan 30 | Correlation                   | Grus, Chapter 5                                               |
+| Feb 1  | Probability                   | Grus, Chapter 6<br>Phillips, Chapter 1                        |
+| Feb 3  | Normal Distributions          | Grus, Chapter 6<br>Phillips, Chapter 1                        |
 | Feb 6  | Hypothesis Testing            | |
 | Feb 8  | Confidence Intervals          | |
 | Feb 10 |                               | |
 | Feb 13 | Midterm Review                | |
 | Feb 15 |                               | |
 | Feb 17 |                               | |
-| Feb 20 | President's Day - No School   | |
+| Feb 20 | __President's Day - No School__ | |
 | Feb 22 | Reading in Data               | |
 | Feb 24 |                               | |
 | Feb 27 | Web Scraping and APIs         | |
