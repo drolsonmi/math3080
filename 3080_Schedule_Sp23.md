@@ -1,4 +1,23 @@
 # Math 3080 Course Schedule - Spring 2023
+These are the topics that we plan to cover this semester:
+* What is Data?
+* Basic Python
+* Linear Algebra Review
+* Statistics Review
+* Obtaining Data
+* Graphing Data
+* Cleaning Data
+* Principle Component Analysis (PCA)
+* Linear Regression
+* Logistic Regression
+* Gradient Descent
+* Support Vector Machines (SVMs)
+* Machine Learning basics (we will cover as many as we have time for)
+  * k-Nearest Neighbors
+  * Naive Bayes
+  * Decision Trees
+  * Neural Networks
+
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
 | Date   | Lecture                       | Reading |
