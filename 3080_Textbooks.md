@@ -26,3 +26,18 @@ There are other fantastic resources which we will refer to occasionally this sem
 Other Resources that may be helpful:
 * [*Intro to Data Science: YouTube Videos*](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) by Steve Brunton
 * [*University of Utah Lectures*](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2021/FoDA.html) by Jeff Phillips
+
+Python Reference Sheets:
+* [DataCamp: Python Basics](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
+* [DataCamp: NumPy](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
+* [DataCamp: SciPy](https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/dfdb6d58-e044-4b38-bab3-5de0b825909b)
+* [DataCamp: Importing Data](https://www.datacamp.com/cheat-sheet/importing-data-in-python-cheat-sheet) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/72e88aa1-b4f2-4658-9d86-15becf8263df)
+* [DataCamp: Pandas Basics](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
+* [DataCamp: Data Wrangling in Pandas](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/d4efb29b-f9c6-4f1c-8c98-6f568d88b48f)
+* [DataCamp: Data Visualization](https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet) - [Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/email/other/Data+Visualizations+-+DataCamp.pdf)
+* [DataCamp: Matplotlib](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
+* [DataCamp: Seaborn](https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247)
+* [DataCamp: PySpark RDD](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10)
+* [DataCamp: PySpark SQL](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python) - [Cheat Sheet](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python)
+* [DataCamp: Top Machine Learning Algorithms](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - [Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf)
+* [DataCamp: Keras](https://www.datacamp.com/cheat-sheet/keras-cheat-sheet-neural-networks-in-python) - [Cheat Sheet](https://res.cloudinary.com/dyd911kmh/image/upload/v1660903348/Keras_Cheat_Sheet_gssmi8.pdf)
