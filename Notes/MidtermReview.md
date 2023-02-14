@@ -43,6 +43,7 @@
   * Normal Distributions
   * Expected Values / Variance
   * Joint, Marginal, and Conditional Distributions
+  
 5. Linear Regression and Errors
   * Covariance
   * Correlation
