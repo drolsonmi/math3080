@@ -25,7 +25,7 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 9  | What is Data Science?         | Brunton Videos                                                |
 | Jan 11 | Python Basics                 | McKinney, Chapters 2-4                                        |
 | Jan 13 | Nature of Data                | Leskovec 1.1-1.3                                              |
-| Jan 16 | __MLK Jr. Day - No School__   |                                                               |
+| Jan 16 | *MLK Jr. Day - No School*     |                                                               |
 | Jan 18 | Linear Algebra: Vectors       | Phillips, Chapter 3<br>McKinney, Chapter 4<br>Grus, Chapter 4 |
 | Jan 20 | Linear Algebra: Matrices      | Phillips, Chapter 3                                           |
 | Jan 23 | Modeling with Linear Algebra  | Phillips, Chapter 3<br>McKinney, Chapter 4                    |
@@ -40,34 +40,34 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Feb 13 | Midterm Review                | |
 | Feb 15 |                               | |
 | Feb 17 |                               | |
-| Feb 20 | __President's Day - No School__ | |
+| Feb 20 | *President's Day - No School* | |
 | Feb 22 | Reading in Data               | |
 | Feb 24 |                               | |
-| Feb 27 | Web Scraping and APIs         | |
-| Mar 1  | Graphing Data                 | |
-| Mar 3  |                               | |
-| Mar 6  | Spring Break                  | |
-| Mar 8  | Spring Break                  | |
-| Mar 10 | Spring Break                  | |
-| Mar 13 | Exploring Data                | |
-| Mar 15 | Cleaning Data                 | |
-| Mar 17 |                               | |
-| Mar 20 | PCA                           | |
-| Mar 22 | Linear Regression             | |
+| Feb 27 | Cleaning Data                 | |
+| Mar 1  | Data Wrangling                | |
+| Mar 3  | __Group Project 2__           | |
+| Mar 6  | *Spring Break*                | |
+| Mar 8  | *Spring Break*                | |
+| Mar 10 | *Spring Break*                | |
+| Mar 13 | Data Wrangling                | |
+| Mar 15 | Group Project 2               | |
+| Mar 17 | Graphing Data                 | |
+| Mar 20 | Graphing Data                 | |
+| Mar 22 |              | |
 | Mar 24 |                               | |
-| Mar 27 | Logistic Regression           | |
-| Mar 29 | SVM                           | |
-| Mar 31 |                               | |
-| Apr 3  | Machine Learning              | |
-| Apr 5  | k-Nearest Neighbors           | |
+| Mar 27 | Linear Regression (revisited) | |
+| Mar 29 | Logistic Regression           | |
+| Mar 31 | Logistic Regression           | |
+| Apr 3  |               | |
+| Apr 5  |            | |
 | Apr 7  |                               | |
-| Apr 10 | Naive Bayes                   | |
-| Apr 12 | Decision Trees                | |
+| Apr 10 |                   | |
+| Apr 12 |                 | |
 | Apr 14 |                               | |
-| Apr 17 | Neural Networks               | |
-| Apr 19 | Clustering                    | |
+| Apr 17 |                | |
+| Apr 19 |                     | |
 | Apr 21 |                               | |
-| Apr 24 | Natural Language Processing   | |
+| Apr 24 |    | |
 | Apr 26 | Ethics                        | |
 | Apr 28 |                               | |
 | May 2  | Final Exam - 7:00am - 9:00 am | |
