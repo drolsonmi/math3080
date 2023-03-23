@@ -1,0 +1,2 @@
+# ignore generated .ipynb_checkpoints files
+*-checkpoint.ipynb
