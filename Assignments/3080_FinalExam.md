@@ -18,7 +18,7 @@ Once you choose your data, do a data analysis using these techniques we learned:
 4. Graphing
     * Make at least your final graph an interactive graph
 
-When completed, __present what you found__. You can do this as a video or as a paper. The presentation should include:
+When completed, __create a presentation of what you found__. You can do this as a video or as a paper. (If you want to do a video presentation, you have free access to Microsoft Teams. I can help you with this - come talk to me so I can help.) The presentation should include:
 * A sample of the original data (along with a description of where the data was obtained)
 * Some of the challenges with the data (Was there missing data? How did you wrangle the data?)
 * Show the figures and explain what certain features of the graphs tell us
