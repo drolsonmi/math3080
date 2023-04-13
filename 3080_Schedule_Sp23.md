@@ -70,4 +70,4 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Apr 24 |    | |
 | Apr 26 | Ethics                        | |
 | Apr 28 |                               | |
-| May 2  | Final Exam - 7:00am - 9:00 am | |
+| May 2  | Final Exam opens 7:00am, due 24 hours after | |
