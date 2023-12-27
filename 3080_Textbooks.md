@@ -1,32 +1,34 @@
 # Textbooks and Resources
-In this class, we will focus most of our attention on the following two books:
-* Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019.
-* Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), v0.6, 2019.
+In this class, we will focus most of our attention on the following books:
+
 * McKinney, Wes, [*Python for Data Analysis*](https://wesmckinney.com/book/), 3rd Edition, 2022.
+* Irizarry, Rafael, [*Introduction to Data Science*](https://rafalab.dfci.harvard.edu/dsbook-part-1/), 2020.
 
 <!--![https://learning.oreilly.com/covers/urn:orm:book:9781492041122/200w/](https://learning.oreilly.com/library/view/data-science-from/9781492041122/) ![https://mathfordata.github.io/assets/images/MathForData.png](https://mathfordata.github.io/) ![https://wesmckinney.com/book/images/cover.png](https://wesmckinney.com/book/)-->
-
-The *Mathematical Foundations* and *Python for Data Analysis* books are available for free. The *Data Science from Scratch* textbook is available on the O'Reilly publishing website. Snow College has a license with O'Reilly, which gives you free access to this book and many others. Here is how to access O'Reilly textbooks:
-* Navigate to [https://www.oreilly.com/library/view/temporary-access/?orpqLinks](https://www.oreilly.com/library/view/temporary-access/?orpqLinks).
-* Select "Institution not listed?"
-* Enter you Snow College email address
-* Search for and read the textbook
 
 Alternatively, you can purchase these books for reasonable prices on Amazon or other textbook websites.
 
 -----
 There are other fantastic resources which we will refer to occasionally this semester, or use more completely in future semesters:
-* Brunton, Steven L. and J. Nathan Kutz, [*Data-Driven Science and Engineering*](http://databookuw.com/databook.pdf), 2019.
+* \* Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019.
+* Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), v0.6, 2019.
+* Brunton, Steven L. and J. Nathan Kutz, [*Data-Driven Science and Engineering*](http://databookuw.com/databook.pdf), 2019. (__Book for MATH 3280__)
   * Companion website: [http://databookuw.com](http://databookuw.com).
-* Leskovec, Jure et al., [*Mining of Massive Datasets*](http://www.mmds.org/), 3rd Edition, 2020.
-* Geron, Aurelien, [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), 2nd Edition, 
-
+* Leskovec, Jure et al., [*Mining of Massive Datasets*](http://www.mmds.org/), 3rd Edition, 2020. (__Book for MATH 3280__)
+* \* Geron, Aurelien, [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/), 3rd Edition, 2022. (__Book for MATH 3480__)
 <!--![http://databookuw.com/files/stacks-image-5bffc53-882x1200.png](http://databookuw.com/databook.pdf) ![https://m.media-amazon.com/images/I/61esnXkNFvL.jpg](http://www.mmds.org/) ![https://learning.oreilly.com/covers/urn:orm:book:9781492032632/200w/](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) -->
+
+> \*These books are available for free. The *Data Science from Scratch* textbook is available on the O'Reilly publishing website. Snow College has a license with O'Reilly, which gives you free access to this book and many others. Here is how to access O'Reilly textbooks:
+> 1. Navigate to [https://www.oreilly.com/library/view/temporary-access/?orpqLinks](https://www.oreilly.com/library/view/temporary-access/?orpqLinks).
+> 2. Select "Institution not listed?"
+> 3. Enter you Snow College email address
+> 4. Search for and read the textbook
 
 Other Resources that may be helpful:
 * [*Intro to Data Science: YouTube Videos*](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) by Steve Brunton
 * [*University of Utah Lectures*](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2021/FoDA.html) by Jeff Phillips
 
+-----
 Python Reference Sheets:
 * [DataCamp: Python Basics](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/0eff0330-e87d-4c34-88d5-73e80cb955f2)
 * [DataCamp: NumPy](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python) - [Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0)
