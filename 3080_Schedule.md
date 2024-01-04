@@ -4,6 +4,8 @@ These are the topics that we plan to cover this semester:
   * The Nature of Data
 * Basic Python
 * Obtaining and Loading Data
+  * Web Scraping
+  * Regular Expressions
 * Graphing Data
 * Cleaning Data
 * Statistics
@@ -14,31 +16,13 @@ These are the topics that we plan to cover this semester:
 
 
 
-* Basic Python
-* Statistics Review
-  * Bayes Theorem
-  * Linear Regression
-* Obtaining Data
-  * Web Scraping
-  * Regular Expressions
-* Graphing Data
-* Cleaning Data
-  * Regular Expressions
-* Linear Regression
-* Logistic Regression
-* Gradient Descent
-* Machine Learning basics (we will cover as many as we have time for)
-  * k-Nearest Neighbors
-  * Naive Bayes
-  * Decision Trees
-
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
 | Date   | Lecture                       | Reading                                                       |
 | :----- | :------                       | :------                                                       |
-| Jan 8  | What is Data Science?         | Brunton Videos                                                |
-| Jan 10 | Python Basics                 | McKinney, Chapters 2-4                                        |
-| Jan 12 | Nature of Data                | Leskovec 1.1-1.3                                              |
+| Jan 8  | What is Data Science?         |                                                |
+| Jan 10 | Python Basics                 |                                        |
+| Jan 12 | Nature of Data                |                                              |
 | Jan 15 | *MLK Jr. Day - No School*     |                                                               |
 | Jan 17 |        |  |
 | Jan 19 |        |  |
@@ -51,22 +35,22 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Feb 5  |        | |
 | Feb 7  |        | |
 | Feb 9  |                               | |
-| Feb 12 | Midterm Review                | |
+| Feb 12 |                 | |
 | Feb 14 |                               | |
 | Feb 16 |                               | |
 | Feb 19 | *President's Day - No School* | |
-| Feb 21 | Reading in Data               | |
+| Feb 21 |                | |
 | Feb 23 |                               | |
-| Feb 26 | Cleaning Data                 | |
-| Feb 28 | Data Wrangling                | |
-| Mar 1  | __Group Project 2__           | |
+| Feb 26 |                  | |
+| Feb 28 |                 | |
+| Mar 1  |            | |
 | Mar 4  | *Spring Break*                | |
 | Mar 6  | *Spring Break*                | |
 | Mar 8  | *Spring Break*                | |
-| Mar 11 | Data Wrangling                | |
-| Mar 13 | Group Project 2               | |
-| Mar 15 | Graphing Data                 | |
-| Mar 18 | Graphing Data                 | |
+| Mar 11 |                 | |
+| Mar 13 |                | |
+| Mar 15 |                  | |
+| Mar 18 |                 | |
 | Mar 20 |                               | |
 | Mar 22 |                               | |
 | Mar 25 | Linear Regression (revisited) | |
