@@ -1,13 +1,12 @@
-# MATH 3080 – Foundations of Data Science
-__Spring 2024__
+# MATH 3080 – Foundations of Data Science - Spring 2024
 
 ## Contact Information
-| Instructor:                  | Dr. Michael E. Olson       |
-| :----------                  | :-------------------       |
-| Office                       | Noyes 102D                 |
-| Office Hours                 | Mon-Fri, 1:30 pm - 2:20 pm |
-| Email and<br>Microsoft Teams | michael.olson2@snow.edu    |
-| Phone:                       | (435) 283-7516             |
+| Instructor:                  | Dr. Michael E. Olson         |
+| :----------                  | :---------------------       |
+| Office                       | Noyes 102D                   |
+| Office Hours                 | Mon-Fri, 11:30 am - 12:30 pm |
+| Email and<br>Microsoft Teams | michael.olson2@snow.edu      |
+| Phone:                       | (435) 283-7516               |
 
 ## Course Description
 In this course, we learn about basic principles of Data Science, including data handling and an introduction to machine learning. This course will also include an introduction to data analysis tools in Python.
@@ -80,11 +79,11 @@ All __exams__ must be taken in the allotted time. If you cannot take the exam in
 ### Grading Scheme
 | Grade	| Percentages |   | Grade | Percentages |
 | :---  | :---:       |---| :---  | :---:       |
-| A	    | 93% - 100%  |   | C	    | 73% - 76%   |
+| A	    | 93% - 100%  |   | C     | 73% - 76%   |
 | A-  	| 90% - 92%   |   | C-    | 70% - 72%   |
-| B+	  | 87% - 89%   |   | D     | 63% - 66%   |
+| B+	| 87% - 89%   |   | D     | 63% - 66%   |
 | B     | 83% - 86%   |   | D-    | 60% - 62%   |
-| B-	  | 80% - 82%   |   | D+    | 67% - 69%   |
+| B-	| 80% - 82%   |   | D+    | 67% - 69%   |
 | C+    | 77% - 79%   |   | F     | 0 – 59%     |
 
 A grade of “I” (incomplete) cannot be issued unless arrangements have been made with your instructor before the last day of class. In addition, don’t expect the college to give you a “W” (withdrawal) if you disappear from school. They won’t do it. Instead, you will get a grade of “F” for the course. No exceptions. So if you must leave, please drop the course officially through the admissions and records office.
