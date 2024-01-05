@@ -1,4 +1,5 @@
 # Textbooks and Resources
+### Required Textbooks and Resources
 In this class, we will focus most of our attention on the following books:
 
 * McKinney, Wes, [*Python for Data Analysis*](https://wesmckinney.com/book/), 3rd Edition, 2022.
@@ -6,9 +7,12 @@ In this class, we will focus most of our attention on the following books:
 
 <!--![https://learning.oreilly.com/covers/urn:orm:book:9781492041122/200w/](https://learning.oreilly.com/library/view/data-science-from/9781492041122/) ![https://mathfordata.github.io/assets/images/MathForData.png](https://mathfordata.github.io/) ![https://wesmckinney.com/book/images/cover.png](https://wesmckinney.com/book/)-->
 
-Alternatively, you can purchase these books for reasonable prices on Amazon or other textbook websites.
+Access the textbooks using the links above. Alternatively, you can purchase these books for reasonable prices on Amazon or other textbook websites.
+
+You will also need access to DataCamp. The link for our DataCamp class is on the home page, and invitations will be sent to you in the first week of classes.
 
 -----
+### Additional (Optional) Textbooks and Resources
 There are other fantastic resources which we will refer to occasionally this semester, or use more completely in future semesters:
 * \* Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019.
 * Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), v0.6, 2019.
