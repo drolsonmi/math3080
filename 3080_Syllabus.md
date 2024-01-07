@@ -53,7 +53,7 @@ Important Dates:
 | Computer Projects | 35%                 |
 | Class Activities  | 10%                 |
 | Midterm Exam      | 20%                 |
-| Final Exam	      | 20%                 |
+| Final Exam	    | 20%                 |
 
 __Homework__ will be assigned using DataCamp. To receive credit, students need to take an assessment. These assignments will be given every two weeks. Instructions will be given on how to access these assignments in the first week of class.
 * If you do not pass the assessment, then a specific 3- to 5-hour course will be assigned on that topic to learn the required skills.
