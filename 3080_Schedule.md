@@ -15,6 +15,7 @@ These are the topics that we plan to cover this semester:
   * Logistic Regression
 * Ethics in Data Science
 
+This class has a prerequisite of MATH 2040 or MATH 3040. You are expected to be able to recall/restudy the topics from that class as needed. We will use these principles often, but may not review the material beforehand. If it is needed, we will do a little review in class, but most of the time, you will be responsible to review topics as needed.
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
