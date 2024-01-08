@@ -9,9 +9,14 @@ This course has 2 sections: MATH 2080 and MATH 3080
   * ...
 
 -----
-1. Intro
+1. Introduction to Data Science
   * What is Data Science?
+  * Overview of the course
+2. The Nature of Data
+  * The Machine Learning process
   * Example of Data Analysis and Machine Learning
+  * The Nature of Data
+3. Python Basics
 
 -----
 * Obtaining Data

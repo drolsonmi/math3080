@@ -22,8 +22,8 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Date   | Lecture                       | Reading    |
 | :----- | :------                       | :------    |
 | Jan 8  | What is Data Science?         |            |
-| Jan 10 | Python Basics                 |            |
-| Jan 12 | Nature of Data                |            |
+| Jan 10 | Nature of Data                |            |
+| Jan 12 | Python Basics                 |            |
 | Jan 15 | *MLK Jr. Day - No School*     |            |
 | Jan 17 |                               |            |
 | Jan 19 |                               |            |
