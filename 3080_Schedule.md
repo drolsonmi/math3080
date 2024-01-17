@@ -22,11 +22,11 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Date   | Lecture                       | Reading    |
 | :----- | :------                       | :------    |
 | Jan 8  | What is Data Science?         |            |
-| Jan 10 | Nature of Data                |            |
-| Jan 12 | Python Basics                 |            |
+| Jan 10 | Machine Learning Process      |            |
+| Jan 12 | Nature of Data                |            |
 | Jan 15 | *MLK Jr. Day - No School*     |            |
-| Jan 17 |                               |            |
-| Jan 19 |                               |            |
+| Jan 17 | Python Basics                 |            |
+| Jan 19 | More Python                   |            |
 | Jan 22 |                               |            |
 | Jan 24 |                               |            |
 | Jan 26 |                               |            |
@@ -70,3 +70,46 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Apr 24 | Ethics                        |            |
 | Apr 26 |                               |            |
 | May 2  | Final Exam opens May 1, 7:00am, due 24 hours after | |
+
+-----
+# Lectures
+## Day 1: What is Data Science?
+* Pi-model
+
+## Day 2: Machine Learning Process
+* Demonstrate __3480_00a_Demo.ipynb__
+* If there's time, also do __3480_00a_Demo2.ipynb__
+
+## Day 3: Nature of Data
+
+## Day 4: Python Basics
+* Why Python?
+* Introduce the Jupyter Notebook on Google CoLab
+    * Simple Python Calculations
+    * Formatting output in Python
+    * Markdown cells
+* Getting help on functions: `pd.read_csv?`
+    * In most IDEs (Google CoLab, VSCode, Jupyter Notebook), type the function and a pop-up window appears showing possible arguments and examples of how the function is used
+    * Adding ?? after the function will provide a description of the function and its arguments
+* Lists, Tuples, Dictionaries, Arrays, Matrices
+    * Lists: a compilation of data (data types can be mixed)
+    * Tuple: like a list but restricts the manipulation of data it contains
+    * Dictionary: adds labels to the data
+        * multiple observations can be entered into the dictionary as lists
+        * Preview: we'll use dictionaries to create DataFrames
+    * Array: like a list but taylored to make calculations easier and more powerful
+        * All elements in the array must have the same data type
+        * Calculations like mean `arr.mean()`, sum `arr.sum()`, standard deviation `arr.std(ddof=0), arr.std(ddof=1)`
+    * Matrix: a 2-D array
+* Strings
+    * Splitting a string
+
+## Day 5: More Python
+* Virtual Environments
+* installing packages through pip
+* Array of Random numbers
+* If Statements
+* For Loops
+* Functions
+    * Doctrings
+    * Loading ftns from a file
