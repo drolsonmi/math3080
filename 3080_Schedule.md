@@ -27,9 +27,9 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 15 | *MLK Jr. Day - No School*     |            |
 | Jan 17 | Python Basics                 |            |
 | Jan 19 | More Python                   |            |
-| Jan 22 |                               |            |
-| Jan 24 |                               |            |
-| Jan 26 |                               |            |
+| Jan 22 | Pandas                        |            |
+| Jan 24 | Loading Data from a File      |            |
+| Jan 26 | Loading Data from API         |            |
 | Jan 29 |                               |            |
 | Jan 31 |                               |            |
 | Feb 2  |                               |            |
@@ -113,3 +113,10 @@ Following is my planned schedule for the course. It is incomplete at this point,
 * Functions
     * Doctrings
     * Loading ftns from a file
+* Basic statistical calculations
+
+## Day 6: Pandas
+* Series
+* DataFrames
+
+## Day 7: Load Data from a File
