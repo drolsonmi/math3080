@@ -30,9 +30,9 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 22 | Pandas                        |            |
 | Jan 24 | Loading Data from a File      |            |
 | Jan 26 | Loading Data from API         |            |
-| Jan 29 |                               |            |
-| Jan 31 |                               |            |
-| Feb 2  |                               |            |
+| Jan 29 | Cleaning Data                 |            |
+| Jan 31 | Data Wrangling part 1         |            |
+| Feb 2  | Data Wrangling part 2         |            |
 | Feb 5  |                               |            |
 | Feb 7  |                               |            |
 | Feb 9  |                               |            |
@@ -120,3 +120,12 @@ Following is my planned schedule for the course. It is incomplete at this point,
 * DataFrames
 
 ## Day 7: Load Data from a File
+Using Pandas to load from
+* a file on the computer
+* a file on the internet
+* Web Scraping: extracting files from a webpage or xml file
+
+## Day 8: Load Data from an API
+
+## Day 9: Cleaning Data
+* Handling missing data
