@@ -25,14 +25,14 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 10 | Machine Learning Process      |            |
 | Jan 12 | Nature of Data                |            |
 | Jan 15 | *MLK Jr. Day - No School*     |            |
-| Jan 17 | Python Basics                 |            |
-| Jan 19 | More Python                   |            |
-| Jan 22 | Pandas                        |            |
-| Jan 24 | Loading Data from a File      |            |
-| Jan 26 | Loading Data from API         |            |
-| Jan 29 | Cleaning Data                 |            |
-| Jan 31 | Data Wrangling part 1         |            |
-| Feb 2  | Data Wrangling part 2         |            |
+| Jan 17 | Python Basics                 | McKinney, Chapters 2-4 |
+| Jan 19 | More Python                   | McKinney, Chapters 2-4 |
+| Jan 22 | Pandas                        | McKinney, Chapter 5    |
+| Jan 24 | Loading Data from a File      | McKinney, Chapter 6    |
+| Jan 26 | Loading Data from API         | McKinney, Chapter 6    |
+| Jan 29 | Cleaning Data                 | McKinney, Chapter 7    |
+| Jan 31 | Data Wrangling part 1         | McKinney, Chapter 8    |
+| Feb 2  | Data Wrangling part 2         | McKinney, Chapter 8    |
 | Feb 5  | In-class Project              |            |
 | Feb 7  | In-class Project              |            |
 | Feb 9  | Types of Graphs               |            |
