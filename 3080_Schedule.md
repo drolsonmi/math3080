@@ -33,12 +33,12 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 29 | Cleaning Data                 |            |
 | Jan 31 | Data Wrangling part 1         |            |
 | Feb 2  | Data Wrangling part 2         |            |
-| Feb 5  |                               |            |
-| Feb 7  |                               |            |
-| Feb 9  |                               |            |
-| Feb 12 |                               |            |
-| Feb 14 |                               |            |
-| Feb 16 |                               |            |
+| Feb 5  | In-class Project              |            |
+| Feb 7  | In-class Project              |            |
+| Feb 9  | Types of Graphs               |            |
+| Feb 12 | Graphing with Matplotlib      |            |
+| Feb 14 | Graphing with Seaborn         |            |
+| Feb 16 | Graphing with Seaborn         |            |
 | Feb 19 | *President's Day - No School* |            |
 | Feb 21 |                               |            |
 | Feb 23 |                               |            |
