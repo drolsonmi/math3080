@@ -19,57 +19,61 @@ This class has a prerequisite of MATH 2040 or MATH 3040. You are expected to be 
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
-| Date   | Lecture                       | Reading    |
-| :----- | :------                       | :------    |
-| Jan 8  | What is Data Science?         |            |
-| Jan 10 | Machine Learning Process      |            |
-| Jan 12 | Nature of Data                |            |
-| Jan 15 | *MLK Jr. Day - No School*     |            |
-| Jan 17 | Python Basics                 | McKinney, Chapters 2-4 |
-| Jan 19 | More Python                   | McKinney, Chapters 2-4 |
-| Jan 22 | Pandas                        | McKinney, Chapter 5    |
-| Jan 24 | Loading Data from a File      | McKinney, Chapter 6    |
-| Jan 26 | Loading Data from API         | McKinney, Chapter 6    |
-| Jan 29 | Cleaning Data                 | McKinney, Chapter 7    |
-| Jan 31 | Data Wrangling part 1         | McKinney, Chapter 8    |
-| Feb 2  | Data Wrangling part 2         | McKinney, Chapter 8    |
-| Feb 5  | In-class Project              |            |
-| Feb 7  | In-class Project              |            |
-| Feb 9  | Types of Graphs               |            |
-| Feb 12 | Graphing with Matplotlib      |            |
-| Feb 14 | Graphing with Seaborn         |            |
-| Feb 16 | Graphing with Seaborn         |            |
-| Feb 19 | *President's Day - No School* |            |
-| Feb 21 |                               |            |
-| Feb 23 |                               |            |
-| Feb 26 |                               |            |
-| Feb 28 |                               |            |
-| Mar 1  |                               |            |
-| Mar 4  | *Spring Break*                |            |
-| Mar 6  | *Spring Break*                |            |
-| Mar 8  | *Spring Break*                |            |
-| Mar 11 |                               |            |
-| Mar 13 |                               |            |
-| Mar 15 |                               |            |
-| Mar 18 |                               |            |
-| Mar 20 |                               |            |
-| Mar 22 |                               |            |
-| Mar 25 |                               |            |
-| Mar 27 |                               |            |
-| Mar 19 |                               |            |
-| Apr 1  |                               |            |
-| Apr 3  |                               |            |
-| Apr 5  |                               |            |
-| Apr 8  |                               |            |
-| Apr 10 |                               |            |
-| Apr 12 |                               |            |
-| Apr 15 |                               |            |
-| Apr 17 |                               |            |
-| Apr 19 |                               |            |
-| Apr 22 |                               |            |
-| Apr 24 | Ethics                        |            |
-| Apr 26 |                               |            |
-| May 2  | Final Exam opens May 1, 7:00am, due 24 hours after | |
+| Date   | Lecture                                   | Reading                 |
+| :----- | :------                                   | :-------------------    |
+|        | __*----- Data Science Overview -----*__   |                         |
+| Jan 8  | What is Data Science?                     |                         |
+| Jan 10 | Machine Learning Process                  |                         |
+| Jan 12 | Nature of Data                            |                         |
+| Jan 15 | *MLK Jr. Day - No School*                 |                         |
+|        | __*----- Python Basics -----*__           |                         |
+| Jan 17 | Python Basics                             | McKinney, Chapters 2-4  |
+| Jan 19 | More Python                               | McKinney, Chapters 2-4  |
+| Jan 22 | Pandas                                    | McKinney, Chapter 5     |
+|        | __*----- Loading Data -----*__            |                         |
+| Jan 24 | Loading Data from a File                  | McKinney, Chapter 6     |
+| Jan 26 | Loading Data from API                     | McKinney, Chapter 6     |
+|        | __*----- Data Wrangling -----*__          |                         | 
+| Jan 29 | Cleaning Data                             | McKinney, Chapter 7     |
+| Jan 31 | Data Wrangling part 1                     | McKinney, Chapter 8     |
+| Feb 2  | *Cancelled Class*                         |                         |
+| Feb 5  | Data Wrangling - Joins                    | McKinney, Chapter 8, 10 |
+| Feb 7  | In-class Project                          |                         |
+|        | __*----- Graphing -----*__                |                         |
+| Feb 12 | Types of Graphs                           |                         |
+| Feb 14 | Graphing with Matplotlib                  |                         |
+| Feb 16 | Graphing with Seaborn                     |                         |
+| Feb 19 | *President's Day - No School*             |                         |
+| Feb 21 | Graphing with Seaborn                     |                         |
+| Feb 23 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
+| Feb 26 |                                           |                         |
+| Feb 28 |                                           |                         |
+| Mar 1  |                                           |                         |
+| Mar 4  | *Spring Break*                            |                         |
+| Mar 6  | *Spring Break*                            |                         |
+| Mar 8  | *Spring Break*                            |                         |
+| Mar 11 |                                           |                         |
+| Mar 13 |                                           |                         |
+| Mar 15 |                                           |                         |
+| Mar 18 |                                           |                         |
+| Mar 20 |                                           |                         |
+| Mar 22 |                                           |                         |
+| Mar 25 |                                           |                         |
+| Mar 27 |                                           |                         |
+| Mar 19 |                                           |                         |
+| Apr 1  |                                           |                         |
+| Apr 3  |                                           |                         |
+| Apr 5  |                                           |                         |
+| Apr 8  |                                           |                         |
+| Apr 10 |                                           |                         |
+| Apr 12 |                                           |                         |
+| Apr 15 |                                           |                         |
+| Apr 17 |                                           |                         |
+| Apr 19 |                                           |                         |
+| Apr 22 |                                           |                         |
+| Apr 24 | Ethics                                    |                         |
+| Apr 26 |                                           |                         |
+| May 2  | Final Exam opens May 1, 7:00am, due 24 hours after |                |
 
 -----
 # Lectures
