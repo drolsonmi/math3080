@@ -133,3 +133,23 @@ Using Pandas to load from
 
 ## Day 9: Cleaning Data
 * Handling missing data
+
+## Day 12: Class Project 1
+Quick review
+* Loading Data
+    * from file
+    * from API
+* Missing Values
+    * Remove
+    * Fill (ffill, bfill, interpolate, specific value)
+* Formatting
+* Data Wrangling
+    * Mapping
+    * Splitting strings
+    * One-hot encoding
+    * Ordinal encoding
+    * Concatenating / Joins
+    * Aggregation
+    * Pivot Tables
+    * Melting
+    * Groupbys
