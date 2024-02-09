@@ -153,3 +153,5 @@ Quick review
     * Pivot Tables
     * Melting
     * Groupbys
+
+Work on [Group Project 1](https://github.com/drolsonmi/math3080/blob/main/Assignments/3080_GroupProject01.ipynb)
