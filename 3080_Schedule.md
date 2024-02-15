@@ -52,12 +52,15 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Mar 4  | *Spring Break*                            |                         |
 | Mar 6  | *Spring Break*                            |                         |
 | Mar 8  | *Spring Break*                            |                         |
+|        | __*----- Statistics -----*__              |                         |
 | Mar 11 |                                           |                         |
 | Mar 13 |                                           |                         |
-| Mar 15 |                                           |                         |
+| Mar 15 | Intro to Machine Learning                 |                         |
+|        | __*----- Linear Regression -----*__       |                         |
 | Mar 18 |                                           |                         |
 | Mar 20 |                                           |                         |
 | Mar 22 |                                           |                         |
+|        | __*----- Bayes' Theorem -----*__          |                         |
 | Mar 25 |                                           |                         |
 | Mar 27 |                                           |                         |
 | Mar 19 |                                           |                         |
@@ -167,6 +170,9 @@ Work on [Group Project 1](https://github.com/drolsonmi/math3080/blob/main/Assign
 ## Day 15: Exploratory Data Analysis
 * What is EDA?
 * What is involved in EDA?
-* Seaborn
+    * .describe() and .info()
+    * Statistics in Python
+    * Graphing
+* Multi-graphs in Seaborn
     * PairGrids
     * JointGrids
