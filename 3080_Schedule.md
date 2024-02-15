@@ -45,7 +45,7 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Feb 16 | Graphing                                  |                         |
 | Feb 19 | *President's Day - No School*             |                         |
 | Feb 21 | Exploratory Data Analysis                 |                         |
-| Feb 23 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
+| Feb 23 | Interactive Graphs                        |                         |
 | Feb 26 | In-class Project: Graphing                |                         |
 | Feb 28 | Midterm Review                            |                         |
 | Mar 1  | __Midterm__                               |                         |
@@ -53,7 +53,7 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Mar 6  | *Spring Break*                            |                         |
 | Mar 8  | *Spring Break*                            |                         |
 |        | __*----- Statistics -----*__              |                         |
-| Mar 11 |                                           |                         |
+| Mar 11 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
 | Mar 13 |                                           |                         |
 | Mar 15 | Intro to Machine Learning                 |                         |
 |        | __*----- Linear Regression -----*__       |                         |
