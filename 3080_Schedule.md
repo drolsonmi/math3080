@@ -38,17 +38,17 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Jan 31 | Data Wrangling part 1                     | McKinney, Chapter 8     |
 | Feb 2  | *Cancelled Class*                         |                         |
 | Feb 5  | Data Wrangling - Joins                    | McKinney, Chapter 8, 10 |
-| Feb 7  | In-class Project                          |                         |
+| Feb 7  | In-class Project: Data Wrangling          |                         |
 |        | __*----- Graphing -----*__                |                         |
-| Feb 12 | Types of Graphs                           |                         |
-| Feb 14 | Graphing with Matplotlib                  |                         |
-| Feb 16 | Graphing with Seaborn                     |                         |
+| Feb 12 | Types of Graphs / Continue Project        |                         |
+| Feb 14 | *Cancelled Class*                         |                         |
+| Feb 16 | Graphing                                  |                         |
 | Feb 19 | *President's Day - No School*             |                         |
-| Feb 21 | Graphing with Seaborn                     |                         |
+| Feb 21 | Exploratory Data Analysis                 |                         |
 | Feb 23 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
-| Feb 26 |                                           |                         |
-| Feb 28 |                                           |                         |
-| Mar 1  |                                           |                         |
+| Feb 26 | In-class Project: Graphing                |                         |
+| Feb 28 | Midterm Review                            |                         |
+| Mar 1  | __Midterm__                               |                         |
 | Mar 4  | *Spring Break*                            |                         |
 | Mar 6  | *Spring Break*                            |                         |
 | Mar 8  | *Spring Break*                            |                         |
@@ -143,6 +143,7 @@ Quick review
     * Remove
     * Fill (ffill, bfill, interpolate, specific value)
 * Formatting
+    * Datetime
 * Data Wrangling
     * Mapping
     * Splitting strings
@@ -155,3 +156,17 @@ Quick review
     * Groupbys
 
 Work on [Group Project 1](https://github.com/drolsonmi/math3080/blob/main/Assignments/3080_GroupProject01.ipynb)
+
+## Day 14: Graphing
+* Matplotlib Basics
+    * Graphing with Matplotlib
+    * Graphing with Seaborn
+        * Basics (commands, data=, x=, y=)
+        * Separating graphs (hue=)
+
+## Day 15: Exploratory Data Analysis
+* What is EDA?
+* What is involved in EDA?
+* Seaborn
+    * PairGrids
+    * JointGrids
