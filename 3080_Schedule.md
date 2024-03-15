@@ -20,7 +20,7 @@ This class has a prerequisite of MATH 2040 or MATH 3040. You are expected to be 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
 | Date   | Lecture                                   | Reading                 |
-| :----- | :------                                   | :-------------------    |
+| :----- | :------------------------------------     | :-------------------    |
 |        | __*----- Data Science Overview -----*__   |                         |
 | Jan 8  | What is Data Science?                     |                         |
 | Jan 10 | Machine Learning Process                  |                         |
