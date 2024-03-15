@@ -54,16 +54,16 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Mar 8  | *Spring Break*                            |                         |
 |        | __*----- Statistics -----*__              |                         |
 | Mar 11 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
-| Mar 13 | Midterm Review                            |                         |
-| Mar 15 | Intro to Machine Learning                 |                         |
+| Mar 13 | Finalize Graphing Project                 |                         |
+| Mar 15 | Midterm Review                            |                         |
+| Mar 18 | Intro to Machine Learning                 |                         |
 |        | __*----- Linear Regression -----*__       |                         |
-| Mar 18 |                                           |                         |
 | Mar 20 |                                           |                         |
 | Mar 22 |                                           |                         |
-|        | __*----- Bayes' Theorem -----*__          |                         |
 | Mar 25 |                                           |                         |
 | Mar 27 |                                           |                         |
 | Mar 19 |                                           |                         |
+|        | __*----- Bayes' Theorem -----*__          |                         |
 | Apr 1  |                                           |                         |
 | Apr 3  |                                           |                         |
 | Apr 5  |                                           |                         |
