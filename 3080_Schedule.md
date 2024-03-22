@@ -19,64 +19,64 @@ This class has a prerequisite of MATH 2040 or MATH 3040. You are expected to be 
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
-| Date   | Lecture                                   | Reading                 |
-| :----- | :------------------------------------     | :-------------------    |
-|        | __*----- Data Science Overview -----*__   |                         |
-| Jan 8  | What is Data Science?                     |                         |
-| Jan 10 | Machine Learning Process                  |                         |
-| Jan 12 | Nature of Data                            |                         |
-| Jan 15 | *MLK Jr. Day - No School*                 |                         |
-|        | __*----- Python Basics -----*__           |                         |
-| Jan 17 | Python Basics                             | McKinney, Chapters 2-4  |
-| Jan 19 | More Python                               | McKinney, Chapters 2-4  |
-| Jan 22 | Pandas                                    | McKinney, Chapter 5     |
-|        | __*----- Loading Data -----*__            |                         |
-| Jan 24 | Loading Data from a File                  | McKinney, Chapter 6     |
-| Jan 26 | Loading Data from API                     | McKinney, Chapter 6     |
-|        | __*----- Data Wrangling -----*__          |                         | 
-| Jan 29 | Cleaning Data                             | McKinney, Chapter 7     |
-| Jan 31 | Data Wrangling part 1                     | McKinney, Chapter 8     |
-| Feb 2  | *Cancelled Class*                         |                         |
-| Feb 5  | Data Wrangling - Joins                    | McKinney, Chapter 8, 10 |
-| Feb 7  | In-class Project: Data Wrangling          |                         |
-|        | __*----- Graphing -----*__                |                         |
-| Feb 12 | Types of Graphs / Continue Project        |                         |
-| Feb 14 | *Cancelled Class*                         |                         |
-| Feb 16 | Graphing                                  |                         |
-| Feb 19 | *President's Day - No School*             |                         |
-| Feb 21 | Exploratory Data Analysis                 |                         |
-| Feb 23 | Interactive Graphs                        |                         |
-| Feb 26 | In-class Project: Graphing                |                         |
-| Feb 28 | Midterm Review                            |                         |
-| Mar 1  | __Midterm__                               |                         |
-| Mar 4  | *Spring Break*                            |                         |
-| Mar 6  | *Spring Break*                            |                         |
-| Mar 8  | *Spring Break*                            |                         |
-|        | __*----- Statistics -----*__              |                         |
-| Mar 11 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
-| Mar 13 | Finalize Graphing Project                 |                         |
-| Mar 15 | Midterm Review                            |                         |
-| Mar 18 | Intro to Machine Learning                 |                         |
-|        | __*----- Linear Regression -----*__       |                         |
-| Mar 20 |                                           |                         |
-| Mar 22 |                                           |                         |
-| Mar 25 |                                           |                         |
-| Mar 27 |                                           |                         |
-| Mar 19 |                                           |                         |
-|        | __*----- Bayes' Theorem -----*__          |                         |
-| Apr 1  |                                           |                         |
-| Apr 3  |                                           |                         |
-| Apr 5  |                                           |                         |
-| Apr 8  |                                           |                         |
-| Apr 10 |                                           |                         |
-| Apr 12 |                                           |                         |
-| Apr 15 |                                           |                         |
-| Apr 17 |                                           |                         |
-| Apr 19 |                                           |                         |
-| Apr 22 |                                           |                         |
-| Apr 24 | Ethics                                    |                         |
-| Apr 26 |                                           |                         |
-| May 2  | Final Exam opens May 1, 7:00am, due 24 hours after |                |
+|  Day  | Date   | Lecture                                   | Reading                 |
+| :---: | :----- | :------                                   | :-------------------    |
+|       |        | __*----- Data Science Overview -----*__   |                         |
+|   1   | Jan 8  | What is Data Science?                     |                         |
+|   2   | Jan 10 | Machine Learning Process                  |                         |
+|   3   | Jan 12 | Nature of Data                            |                         |
+|       | Jan 15 | *MLK Jr. Day - No School*                 |                         |
+|       |        | __*----- Python Basics -----*__           |                         |
+|   4   | Jan 17 | Python Basics                             | McKinney, Chapters 2-4  |
+|   5   | Jan 19 | More Python                               | McKinney, Chapters 2-4  |
+|   6   | Jan 22 | Pandas                                    | McKinney, Chapter 5     |
+|       |        | __*----- Loading Data -----*__            |                         |
+|   7   | Jan 24 | Loading Data from a File                  | McKinney, Chapter 6     |
+|   8   | Jan 26 | Loading Data from API                     | McKinney, Chapter 6     |
+|       |        | __*----- Data Wrangling -----*__          |                         | 
+|   9   | Jan 29 | Cleaning Data                             | McKinney, Chapter 7     |
+|  10   | Jan 31 | Data Wrangling part 1                     | McKinney, Chapter 8     |
+|       | Feb 2  | *Cancelled Class*                         |                         |
+|  11   | Feb 5  | Data Wrangling - Joins                    | McKinney, Chapter 8, 10 |
+|  12   | Feb 7  | In-class Project: Data Wrangling          |                         |
+|       |        | __*----- Graphing -----*__                |                         |
+|  13   | Feb 12 | Types of Graphs / Continue Project        |                         |
+|       | Feb 14 | *Cancelled Class*                         |                         |
+|  14   | Feb 16 | Graphing                                  |                         |
+|       | Feb 19 | *President's Day - No School*             |                         |
+|  15   | Feb 21 | Exploratory Data Analysis                 |                         |
+|  16   | Feb 23 | Interactive Graphs                        |                         |
+|  17   | Feb 26 | In-class Project: Stocks & Graphing       |                         |
+|  18   | Feb 28 | Scaling                                   |                         |
+|  19   | Mar 1  | In-class Project: Stocks & Graphing       |                         |
+|       | Mar 4  | *Spring Break*                            |                         |
+|       | Mar 6  | *Spring Break*                            |                         |
+|       | Mar 8  | *Spring Break*                            |                         |
+|  20   | Mar 11 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
+|  21   | Mar 13 |                                           |                         |
+|  22   | Mar 15 | Midterm Review                            |                         |
+|  23   | Mar 18 | Midterm Review                            |                         |
+|  24   | Mar 20 | __Midterm__                               |                         |
+|       |        | __*----- Statistics -----*__              |                         |
+|  25   | Mar 22 | Intro to Machine Learning                 |                         |
+|  26   | Mar 25 |                                           |                         |
+|  27   | Mar 27 | Evaluation Measures                       |                         |
+|       |        | __*----- Linear Regression -----*__       |                         |
+|  28   | Mar 19 |                                           |                         |
+|  29   | Apr 1  |                                           |                         |
+|  30   | Apr 3  |                                           |                         |
+|       |        | __*----- Bayes' Theorem -----*__          |                         |
+|  31   | Apr 5  |                                           |                         |
+|  32   | Apr 8  |                                           |                         |
+|  33   | Apr 10 |                                           |                         |
+|  34   | Apr 12 |                                           |                         |
+|  35   | Apr 15 |                                           |                         |
+|  36   | Apr 17 |                                           |                         |
+|  37   | Apr 19 |                                           |                         |
+|  38   | Apr 22 |                                           |                         |
+|  39   | Apr 24 | Ethics                                    |                         |
+|  40   | Apr 26 |                                           |                         |
+|       | May 2  | __Final Exam__ opens May 1, 7:00am, due 24 hours after |            |
 
 -----
 # Lectures
@@ -137,6 +137,10 @@ Using Pandas to load from
 ## Day 9: Cleaning Data
 * Handling missing data
 
+## Day 10: 
+
+## Day 11: 
+
 ## Day 12: Class Project 1
 Quick review
 * Loading Data
@@ -160,6 +164,8 @@ Quick review
 
 Work on [Group Project 1](https://github.com/drolsonmi/math3080/blob/main/Assignments/3080_GroupProject01.ipynb)
 
+## Day 13: 
+
 ## Day 14: Graphing
 * Matplotlib Basics
     * Graphing with Matplotlib
@@ -176,3 +182,57 @@ Work on [Group Project 1](https://github.com/drolsonmi/math3080/blob/main/Assign
 * Multi-graphs in Seaborn
     * PairGrids
     * JointGrids
+
+## Day 16: 
+
+## Day 17: Class Project - Stocks
+Today, we are going to use stocks in a class project. Topics we'll deal with in this project
+* API's
+  * Dictionaries and .json
+* Datetime Formats
+* Scaling
+* Graphing
+
+Goal for today:
+* Get the stock data loaded from API
+  * Specifically, we'll be working with the `4. close` stock values
+* Convert data into correct formats
+  * Try doing a `sns.lineplot()` with the data to see if it's in the right format
+
+Let the students work until 9:15. Then summarize where everyone should be
+* Load API
+* Graph data (looks horrible)
+* Formatting
+  * Convert index to datetime
+  * Convert `4. close` to float
+* Graph again
+
+## Day 18: Scaling
+Load `AMZN` and `T` stocks and plot - very different
+
+Teach about scaling
+* Standardization
+* Normalization
+
+Do with `AMZN` and `T` data
+
+Give students questions to answer from the data
+
+## Day 19: Finish Stocks Project
+
+## Day 20: Ethics in Graphing
+
+## Day 21: Midterm Review
+1. Python
+    * a
+2. Loading Data
+    * a
+3. Data Wrangling
+    * a
+4. Graphing
+    * a
+
+## Day 24: Midterm
+
+## Day 25: Intro to Machine Learning
+* 
