@@ -53,13 +53,13 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |       | Mar 6  | *Spring Break*                            |                         |
 |       | Mar 8  | *Spring Break*                            |                         |
 |  20   | Mar 11 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
-|  21   | Mar 13 |                                           |                         |
+|  21   | Mar 13 | More work on project                      |                         |
 |  22   | Mar 15 | Midterm Review                            |                         |
 |  23   | Mar 18 | Midterm Review                            |                         |
 |  24   | Mar 20 | __Midterm__                               |                         |
 |       |        | __*----- Statistics -----*__              |                         |
 |  25   | Mar 22 | Intro to Machine Learning                 |                         |
-|  26   | Mar 25 |                                           |                         |
+|  26   | Mar 25 | The ML Process / Cross Validation         |                         |
 |  27   | Mar 27 | Evaluation Measures                       |                         |
 |       |        | __*----- Linear Regression -----*__       |                         |
 |  28   | Mar 19 |                                           |                         |
