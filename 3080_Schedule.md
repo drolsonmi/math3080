@@ -61,8 +61,8 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  25   | Mar 22 | Intro to Machine Learning                 |                         |
 |  26   | Mar 25 | The ML Process / Cross Validation         |                         |
 |  27   | Mar 27 | Evaluation Measures                       |                         |
-|       |        | __*----- Linear Regression -----*__       |                         |
 |  28   | Mar 19 |                                           |                         |
+|       |        | __*----- Linear Regression -----*__       |                         |
 |  29   | Apr 1  |                                           |                         |
 |  30   | Apr 3  |                                           |                         |
 |       |        | __*----- Bayes' Theorem -----*__          |                         |
