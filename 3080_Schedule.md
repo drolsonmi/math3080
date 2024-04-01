@@ -60,13 +60,13 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |       |        | __*----- Statistics -----*__              |                         |
 |  25   | Mar 22 | Intro to Machine Learning                 |                         |
 |  26   | Mar 25 | The ML Process / Cross Validation         |                         |
-|  27   | Mar 27 | Evaluation Measures                       |                         |
-|  28   | Mar 19 |                                           |                         |
+|  27   | Mar 27 | Classification Evaluation Measures        |                         |
+|  28   | Mar 29 | Regression Evaluation Measures            |                         |
 |       |        | __*----- Linear Regression -----*__       |                         |
-|  29   | Apr 1  |                                           |                         |
+|  29   | Apr 1  | Variance, Covariance, Correlation         |                         |
 |  30   | Apr 3  |                                           |                         |
-|       |        | __*----- Bayes' Theorem -----*__          |                         |
 |  31   | Apr 5  |                                           |                         |
+|       |        | __*----- Bayes' Theorem -----*__          |                         |
 |  32   | Apr 8  |                                           |                         |
 |  33   | Apr 10 |                                           |                         |
 |  34   | Apr 12 |                                           |                         |
