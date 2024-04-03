@@ -64,15 +64,16 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |  28   | Mar 29 | Regression Evaluation Measures            |                         |
 |       |        | __*----- Linear Regression -----*__       |                         |
 |  29   | Apr 1  | Variance, Covariance, Correlation         |                         |
-|  30   | Apr 3  |                                           |                         |
-|  31   | Apr 5  |                                           |                         |
+|  30   | Apr 3  | Linear Regression                         |                         |
+|  31   | Apr 5  | Linear Regression Project                 |                         |
 |       |        | __*----- Bayes' Theorem -----*__          |                         |
-|  32   | Apr 8  |                                           |                         |
-|  33   | Apr 10 |                                           |                         |
-|  34   | Apr 12 |                                           |                         |
-|  35   | Apr 15 |                                           |                         |
-|  36   | Apr 17 |                                           |                         |
-|  37   | Apr 19 |                                           |                         |
+|  32   | Apr 8  | Bayes' Theorem                            |                         |
+|  33   | Apr 10 | Naive Bayes Model                         |                         |
+|  34   | Apr 12 | Naive Bayes Project                       |                         |
+|       |        | __*----- Logistic Regression -----*__     |                         |
+|  35   | Apr 15 | Logistic Regression                       |                         |
+|  36   | Apr 17 | Logistic Regression Model                 |                         |
+|  37   | Apr 19 | Logistic Regression Project               |                         |
 |  38   | Apr 22 |                                           |                         |
 |  39   | Apr 24 | Ethics                                    |                         |
 |  40   | Apr 26 |                                           |                         |
