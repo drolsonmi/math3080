@@ -65,18 +65,18 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |       |        | __*----- Linear Regression -----*__       |                         |
 |  29   | Apr 1  | Variance, Covariance, Correlation         |                         |
 |  30   | Apr 3  | Linear Regression                         |                         |
-|  31   | Apr 5  | Linear Regression Project                 |                         |
+|  31   | Apr 5  | __Project__: Linear Regression            |                         |
+|  32   | Apr 8  | __Project__: Linear Regression            |                         |
 |       |        | __*----- Bayes' Theorem -----*__          |                         |
-|  32   | Apr 8  | Bayes' Theorem                            |                         |
-|  33   | Apr 10 | Naive Bayes Model                         |                         |
-|  34   | Apr 12 | Naive Bayes Project                       |                         |
+|  33   | Apr 10 | Bayes' Theorem                            |                         |
+|  34   | Apr 12 | Naive Bayes Model                         |                         |
+|  35   | Apr 15 | __Project__: Naive Bayes                  |                         |
+|  36   | Apr 17 | __Project__: Naive Bayes                  |                         |
 |       |        | __*----- Logistic Regression -----*__     |                         |
-|  35   | Apr 15 | Logistic Regression                       |                         |
-|  36   | Apr 17 | Logistic Regression Model                 |                         |
-|  37   | Apr 19 | Logistic Regression Project               |                         |
-|  38   | Apr 22 |                                           |                         |
-|  39   | Apr 24 | Ethics                                    |                         |
-|  40   | Apr 26 |                                           |                         |
+|  37   | Apr 19 | Logistic Regression                       |                         |
+|  38   | Apr 22 | Logistic Regression Model                 |                         |
+|  39   | Apr 24 | __Project__: Logistic Regression          |                         |
+|  40   | Apr 26 | Ethics                                    |                         |
 |       | May 2  | __Final Exam__ opens May 1, 7:00am, due 24 hours after |            |
 
 -----
