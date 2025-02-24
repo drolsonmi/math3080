@@ -16,6 +16,8 @@ You will also need access to DataCamp. The link for our DataCamp class is on the
 There are other fantastic resources which we will refer to occasionally this semester, or use more completely in future semesters:
 * \* Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019.
 * Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), v0.6, 2019.
+* James, Gareth, et al., [*Introduction to Statistical Learning*](https://www.statlearning.com/resources-python), 2023.
+* Hastie, Trevor, et al., [*The Elements of Statistical Learning*](https://hastie.su.domains/ElemStatLearn/), 2009.
 * Brunton, Steven L. and J. Nathan Kutz, [*Data-Driven Science and Engineering*](http://databookuw.com/databook.pdf), 2019. (__Book for MATH 3280__)
   * Companion website: [http://databookuw.com](http://databookuw.com).
 * Leskovec, Jure et al., [*Mining of Massive Datasets*](http://www.mmds.org/), 3rd Edition, 2020. (__Book for MATH 3280__)
