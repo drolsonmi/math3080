@@ -1,4 +1,4 @@
-# MATH 3080 – Foundations of Data Science - Spring 2024
+# MATH 3080 – Foundations of Data Science - Spring 2026
 
 ## Contact Information
 | Instructor:                  | Dr. Michael E. Olson         |
