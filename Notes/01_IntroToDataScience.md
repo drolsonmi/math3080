@@ -19,3 +19,19 @@ Skills needed for a data scientist (in order)
 5. Technical skills
     * computational thinking
     * some skills can be learned later, but there should at least be a background
+
+## Data Science Process and Tools
+Process:
+1. Data Management
+2. Data Integration and Transformation
+    * ETL (Extract, Transform, and Load)
+3. Data Visualization
+4. Model Building  (MATH 3280 and 3480)
+5. Model Deployment
+6. Model Monitoring and Assessment
+
+Tools
+1. Data Asset Management
+2. Code Asset Management (e.g. GitHub)
+3. Development Environments (or IDEs)
+4. Execution Environments
