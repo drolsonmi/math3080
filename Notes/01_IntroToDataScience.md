@@ -21,6 +21,20 @@ Skills needed for a data scientist (in order)
     * some skills can be learned later, but there should at least be a background
 
 ## Data Science Process and Tools
+__CRISP-DM__: Cross-Industry Standard Process for Data Mining
+1. Business Understanding
+2. Data Understanding
+    * Data Management
+3. Data Preparation
+    * Data Integration and Transformation
+    * ETL (Extract, Transform, and Load)
+    * Data Visualization
+4. Modeling  (MATH 3280 and 3480)
+5. Evaluation  (MATH 3280 and 3480)
+6. Deployment
+    * Model Monitoring and Assessment
+
+<!--
 Process:
 1. Data Management
 2. Data Integration and Transformation
@@ -29,6 +43,7 @@ Process:
 4. Model Building  (MATH 3280 and 3480)
 5. Model Deployment
 6. Model Monitoring and Assessment
+-->
 
 Tools
 1. Data Asset Management
