@@ -1,14 +1,14 @@
-# Math 3080 Course Schedule - Spring 2024
+# Math 3080 Course Schedule - Spring 2026
 These are the topics that we plan to cover this semester:
 * What is Data Science?
   * The Nature of Data
 * Basic Python
 * Obtaining and Loading Data
   * Web Scraping
-  * Regular Expressions
 * Graphing Data
 * Cleaning Data
 * Statistics
+  * Linear Regression
   * Bayes Rule
 * Intro to Machine Learning
   * Linear Regression
@@ -19,65 +19,65 @@ This class has a prerequisite of MATH 2040 or MATH 3040. You are expected to be 
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
-|  Day  | Date   | Lecture                                   | Reading                 |
-| :---: | :----- | :------                                   | :-------------------    |
-|       |        | __*----- Data Science Overview -----*__   |                         |
-|   1   | Jan 8  | What is Data Science?                     |                         |
-|   2   | Jan 10 | Machine Learning Process                  |                         |
-|   3   | Jan 12 | Nature of Data                            |                         |
-|       | Jan 15 | *MLK Jr. Day - No School*                 |                         |
-|       |        | __*----- Python Basics -----*__           |                         |
-|   4   | Jan 17 | Python Basics                             | McKinney, Chapters 2-4  |
-|   5   | Jan 19 | More Python                               | McKinney, Chapters 2-4  |
-|   6   | Jan 22 | Pandas                                    | McKinney, Chapter 5     |
-|       |        | __*----- Loading Data -----*__            |                         |
-|   7   | Jan 24 | Loading Data from a File                  | McKinney, Chapter 6     |
-|   8   | Jan 26 | Loading Data from API                     | McKinney, Chapter 6     |
-|       |        | __*----- Data Wrangling -----*__          |                         | 
-|   9   | Jan 29 | Cleaning Data                             | McKinney, Chapter 7     |
-|  10   | Jan 31 | Data Wrangling part 1                     | McKinney, Chapter 8     |
-|       | Feb 2  | *Cancelled Class*                         |                         |
-|  11   | Feb 5  | Data Wrangling - Joins                    | McKinney, Chapter 8, 10 |
-|  12   | Feb 7  | In-class Project: Data Wrangling          |                         |
-|       |        | __*----- Graphing -----*__                |                         |
-|  13   | Feb 12 | Types of Graphs / Continue Project        |                         |
-|       | Feb 14 | *Cancelled Class*                         |                         |
-|  14   | Feb 16 | Graphing                                  |                         |
-|       | Feb 19 | *President's Day - No School*             |                         |
-|  15   | Feb 21 | Exploratory Data Analysis                 |                         |
-|  16   | Feb 23 | Interactive Graphs                        |                         |
-|  17   | Feb 26 | In-class Project: Stocks & Graphing       |                         |
-|  18   | Feb 28 | Scaling                                   |                         |
-|  19   | Mar 1  | In-class Project: Stocks & Graphing       |                         |
-|       | Mar 4  | *Spring Break*                            |                         |
-|       | Mar 6  | *Spring Break*                            |                         |
-|       | Mar 8  | *Spring Break*                            |                         |
-|  20   | Mar 11 | Ethics - Poor Graphs                      | Irizarry, Chapter 9     |
-|  21   | Mar 13 | More work on project                      |                         |
-|  22   | Mar 15 | Midterm Review                            |                         |
-|  23   | Mar 18 | Midterm Review                            |                         |
-|  24   | Mar 20 | __Midterm__                               |                         |
-|       |        | __*----- Statistics -----*__              |                         |
-|  25   | Mar 22 | Intro to Machine Learning                 |                         |
-|  26   | Mar 25 | The ML Process / Cross Validation         |                         |
-|  27   | Mar 27 | Classification Evaluation Measures        |                         |
-|  28   | Mar 29 | Regression Evaluation Measures            |                         |
-|       |        | __*----- Linear Regression -----*__       |                         |
-|  29   | Apr 1  | Variance, Covariance, Correlation         |                         |
-|  30   | Apr 3  | Linear Regression                         |                         |
-|  31   | Apr 5  | __Project__: Linear Regression            |                         |
-|  32   | Apr 8  | __Project__: Linear Regression            |                         |
-|       |        | __*----- Bayes' Theorem -----*__          |                         |
-|  33   | Apr 10 | Bayes' Theorem                            |                         |
-|  34   | Apr 12 | Naive Bayes Model                         |                         |
-|       |        | __*----- Logistic Regression -----*__     |                         |
-|  35   | Apr 15 | Logistic Regression                       |                         |
-|  36   | Apr 17 | Logistic Regression Model                 |                         |
-|  37   | Apr 19 | __Project__: Logistic Regression          |                         |
-|  38   | Apr 24 | __Project__: Logistic Regression          |                         |
-|  39   | Apr 22 | Ethics                                    |                         |
-|  40   | Apr 26 | Review                                    |                         |
-|       | May 2  | __Final Exam__ opens May 1, 7:00am, due 24 hours after |            |
+|  Day  | Date   | Lecture                                    | Reading                 |
+| :---: | :----- | :----------------------------------------- | :---------------------- |
+|       |        | __*----- Data Science Overview -----*__    |                         |
+|   1   | Jan 7  | What is Data Science?                      |                         |
+|   2   | Jan 9  | Machine Learning Process                   |                         |
+|   3   | Jan 12 | Nature of Data                             |                         |
+|       |        | __*----- Python Basics -----*__            |                         |
+|   4   | Jan 14 | Python Basics                              | McKinney, Chapters 2-4  |
+|   5   | Jan 16 | More Python                                | McKinney, Chapters 2-4  |
+|       | Jan 19 | *MLK Jr. Day - No School*                  |                         |
+|   6   | Jan 21 | Pandas                                     | McKinney, Chapter 5     |
+|       |        | __*----- Loading Data -----*__             |                         |
+|   7   | Jan 23 | Loading Data from a File                   | McKinney, Chapter 6     |
+|   8   | Jan 26 | Loading Data from API                      | McKinney, Chapter 6     |
+|       |        | __*----- Data Wrangling -----*__           |                         | 
+|   9   | Jan 28 | Cleaning Data                              | McKinney, Chapter 7     |
+|  10   | Jan 30 | Data Wrangling part 1                      | McKinney, Chapter 8     |
+|  11   | Feb 2  | Data Wrangling - Joins                     | McKinney, Chapter 8, 10 |
+|  12   | Feb 4  | In-class Project: Data Wrangling           |                         |
+|       |        | __*----- Graphing -----*__                 |                         |
+|  13   | Feb 6  | Types of Graphs / Continue Project         |                         |
+|  14   | Feb 9  | Graphing                                   |                         |
+|  15   | Feb 11 | Exploratory Data Analysis                  |                         |
+|  16   | Feb 13 | Interactive Graphs                         |                         |
+|       | Feb 16 | *President's Day - No School*              |                         |
+|  17   | Feb 18 | In-class Project: Stocks & Graphing        |                         |
+|  18   | Feb 20 | Scaling                                    |                         |
+|  19   | Feb 23 | In-class Project: Stocks & Graphing        |                         |
+|  20   | Feb 25 | Ethics - Poor Graphs                       | Irizarry, Chapter 9     |
+|  21   | Feb 27 | More work on project                       |                         |
+|       | Mar 2  | *Spring Break*                             |                         |
+|       | Mar 4  | *Spring Break*                             |                         |
+|       | Mar 6  | *Spring Break*                             |                         |
+|  22   | Mar 9  | Midterm Review                             |                         |
+|  23   | Mar 11 | Midterm Review                             |                         |
+|  24   | Mar 13 | __Midterm__                                |                         |
+|       |        | __*----- Statistics -----*__               |                         |
+|  25   | Mar 16 | Intro to Machine Learning                  |                         |
+|  26   | Mar 18 | The ML Process / Cross Validation          |                         |
+|  27   | Mar 20 | Classification Evaluation Measures         |                         |
+|  28   | Mar 23 | Regression Evaluation Measures             |                         |
+|       |        | __*----- Linear Regression -----*__        |                         |
+|  29   | Mar 25 | Variance, Covariance, Correlation          |                         |
+|  30   | Mar 27 | Linear Regression                          |                         |
+|  31   | Mar 30 | __Project__: Linear Regression             |                         |
+|  32   | Apr 1  | __Project__: Linear Regression             |                         |
+|       | Apr 3  | *April Break - No School*                  |                         |
+|       |        | __*----- Bayes' Theorem -----*__           |                         |
+|  33   | Apr 6  | Bayes' Theorem                             |                         |
+|  34   | Apr 8  | Naive Bayes Model                          |                         |
+|       |        | __*----- Logistic Regression -----*__      |                         |
+|  35   | Apr 10 | Logistic Regression                        |                         |
+|  36   | Apr 13 | Logistic Regression Model                  |                         |
+|  37   | Apr 15 | __Project__: Logistic Regression           |                         |
+|  38   | Apr 17 | __Project__: Logistic Regression           |                         |
+|  39   | Apr 20 | Ethics                                     |                         |
+|  40   | Apr 22 | Review                                     |                         |
+|  41   | Apr 24 | Review                                     |                         |
+|       | Apr 29 | __Final Exam__ in our classroom at 7:00 am |                         |
 
 -----
 # Lectures
