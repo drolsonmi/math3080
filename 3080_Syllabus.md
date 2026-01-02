@@ -1,103 +1,61 @@
 # MATH 3080 – Foundations of Data Science - Spring 2026
 
 ## Contact Information
-| Instructor:                  | Dr. Michael E. Olson         |
-| :----------                  | :---------------------       |
-| Office                       | Noyes 102D                   |
-| Office Hours                 | Mon-Fri, 11:30 am - 12:30 pm |
-| Email and<br>Microsoft Teams | michael.olson2@snow.edu      |
-| Phone:                       | (435) 283-7516               |
+| MATH 3080       | Spring 2026                                                          |
+| :-------------- | :------------------------------------------------------------------- |
+| Professor       | Dr. Michael E. Olson                                                 |
+| Email           | michael.olson2@snow.edu                                              |
+| Office          | GRSC 312                                                             |
+| Office Hours    | MW 10:00 am - 11:30 am (in office)<br>TR 1:30 pm - 2:30 pm (virtual) |
+| Microsoft Teams | Can send me a direct message using my email address                  |
 
-## Course Description
-In this course, we learn about basic principles of Data Science, including data handling and an introduction to machine learning. This course will also include an introduction to data analysis tools in Python.
+## Course Information
+Course information is available on the Snow College Website:
+* [MATH 3080 Course Information and Master Syllabus - Snow College](https://snow.edu/academics/science_math/math/course.html?crse_numb=3080&subj_code=MATH)
 
-This course supports an inclusive learning environment where diverse perspectives are recognized, respected and seen as a source of strength. The consideration of a diverse set of problems using real data will help support this goal.
-
-__Our class will meet Mondays, Wednesdays, and Fridays, 8:30 am - 9:20 am in the Huntsman Library, Room 024B.__
-
-## Prerequisites
-This course is for students who have successfully completed Math 1210 and Math 2040 (or Math 3040) with a C or better in each course.
-
-## Textbook
-* McKinney, Wes, [*Python for Data Analysis*](https://wesmckinney.com/book/), 3rd Edition, 2022.
-* Irizarry, Rafael, [*Introduction to Data Science*](https://rafalab.dfci.harvard.edu/dsbook-part-1/), 2020.
-
-Any supplemental resources will be provided to you on Canvas.
-
-## Required Materials
-* Access to a computer (desktop, laptop, or computer lab)
-* Python IDE
-    * Option 1: Install Python on your own computer (Anaconda or WSL)
-    * Option 2: Google CoLab (Google account required)
-
-## Schedule
-A tentative schedule is found on Canvas. This schedule may be changed based on progress through the semester.
-
-Important Dates:
-
-| Date     | Event                                                                             |
-| :------- | :-------------------------------------------------------------------------------- |
-| Jan 12   | Last day to pay tuition                                                           |
-| Jan 15   | Martin Luther King Jr. Holiday - No School                                        |
-| Jan 26   | Last day to add a Full Semester Course<br>Last day to drop a course without a "W" |
-| Feb 19   | Presidents' Day Holiday - No School                                               |
-| Mar 4-8  | Spring Break                                                                      |
-| Mar 22   | Final day to drop a Full Semester course with a "W"                               |
-| Apr 26   | Last day of classes                                                               |
-| May 2    | Final Project due                                                                 |
+## Textbooks and Materials
+* All textbook information is available on the [MATH 3080 Textbook page](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md)
+    * All textbooks are available for free online
+* Students must have access to a Python environment
+    * Students are welcome to use Python from an online environment (such as Google Colaboratory), but assignments will work more smoothly if it is installed on personal machines
 
 ## Grading Policy
-| Assignment	      | Percentage of Grade |
-| :---------------- | :-----------------: |
-| Homework	        | 15%                 |
-| Computer Projects | 35%                 |
-| Class Activities  | 10%                 |
-| Midterm Exam      | 20%                 |
-| Final Exam	    | 20%                 |
+| Assignment   | Percentage of Grade |
+| :----------- | :-----------------: |
+| Homework     | 20%                 |
+| Projects     | 40%                 |
+| Midterm Exam | 20%                 |
+| Final Exam   | 20%                 |
 
-__Homework__ will be assigned using DataCamp. To receive credit, students need to take an assessment. These assignments will be given every two weeks. Instructions will be given on how to access these assignments in the first week of class.
-* If you do not pass the assessment, then a specific 3- to 5-hour course will be assigned on that topic to learn the required skills.
-* If you pass the assessment, then you will be given a more advanced course to complete to augment the skills you already have.
+### Assignment Overview
+__Homework__ will be assigned using Canvas, GitHub Classroom, and DataCamp. To receive credit from DataCamp, students need to take an assessment. These assignments will be given every week. Instructions will be given on how to access these assignments in the first week of class.
 
-__Class Projects__ will be assigned for most weeks where there is not a homework assignment given. These will be opportunities for you to apply what you are learning in lecture and in the homework in a more realistic scenario.
+__Projects__ will be assigned for most weeks where there is not a homework assignment given. These will be opportunities for you to apply what you are learning in lecture and in the homework in a more realistic scenario.
 
-There will be two __Class Activities__ during the semester. These activities will be designed to give you opportunities to practice Data Analysis techniques we learn about it in class. <!--These will consist of competitions administered on DataCamp. You are encouraged to participate in these competitions during the semester and afterwards. They are excellent ways to practice learned skills and to pick up new skills.-->
+The __Midterm Exam__ will be administered just before Spring Break and will cover material covered from the beginning of the semester up until that point.
 
-The __Midterm Exam__ will be administered just before Spring Break and will cover material covered from the beginning of the semester up until that point. <!--Expect a variety of questions from multiple choice, short answer, and programming questions.-->
-
-__The Final Exam__ will be a comprehensive exam covering material from the entire semester. <!--Expect a variety of questions from multiple choice, short answer, and programming questions.-->
-
-> A request to take a final exam at any time other time than when it is officially scheduled must be initiated with the professor and approved by the Dean or Department Chair at least two weeks before the scheduled final exam. A charge of $50.00 per exam will be assessed if the request is approved.
+The __Final Exam__ will be a comprehensive exam covering material from the entire semester.
 
 ### Late Policy
-All __homework assignments and class projects__ will be accepted for 70% credit for one week after the due date. Homework submitted one week after the due date or later will not be accepted. __Class activities__ will not be accepted after the due date unless it is discussed with me before the due date.
+All __homework assignments__ and __class projects__ will be accepted for 70% credit for one week after the due date. Homework submitted one week after the due date or later will not be accepted. Class activities will not be accepted after the due date unless it is discussed with me before the due date.
 
-> I understand that emergencies happen. As such __I will waive the late penalty for up to 3 late homework assignments__. Otherwise, late homework submissions need to be discussed with me prior to the due date to avoid the late penalty.
+I understand that emergencies happen. As such __I will waive the late penalty for up to 3 late homework assignments__. Otherwise, late homework submissions need to be discussed with me prior to the due date to avoid the late penalty.
 
-All __exams__ must be taken in the allotted time. If you cannot take the exam in the requested time, then you must *coordinate with me __no later than one week before the exam is due__*.
+All exams must be taken in the allotted time. If you cannot take the exam in the requested time, then you must coordinate with me *no later than one week before the exam is due*.
 
-### Grading Scheme
-| Grade	| Percentages |   | Grade | Percentages |
-| :---  | :---:       |---| :---  | :---:       |
-| A	    | 93% - 100%  |   | C     | 73% - 76%   |
-| A-  	| 90% - 92%   |   | C-    | 70% - 72%   |
-| B+	| 87% - 89%   |   | D     | 63% - 66%   |
-| B     | 83% - 86%   |   | D-    | 60% - 62%   |
-| B-	| 80% - 82%   |   | D+    | 67% - 69%   |
-| C+    | 77% - 79%   |   | F     | 0 – 59%     |
+### Taking the Final Exam early
+A request to take a final exam at any time other time than when it is officially scheduled must be initiated with the professor and approved by the Dean or Department Chair at least two weeks before the scheduled final exam. A charge of $50.00 per exam will be assessed if the request is approved.
 
-A grade of “I” (incomplete) cannot be issued unless arrangements have been made with your instructor before the last day of class. In addition, don’t expect the college to give you a “W” (withdrawal) if you disappear from school. They won’t do it. Instead, you will get a grade of “F” for the course. No exceptions. So if you must leave, please drop the course officially through the admissions and records office.
+Information on taking the final exam early can be found on the [Snow College Final Exam](https://snow.edu/offices/registrar/final_exams.html) page.
 
-## General Class Guidelines
-My classroom policies can be summarized by three points:
-1. Be honest.
-2. Be courteous to other students.
-3. Be dedicated to your education.
+### Using AI in this class
+Generative AI is a technology that automates part or all of the writing and content creation process. Popular examples include ChatGPT (OpenAI), Gemini (Google), Claude (Anthropic), and others. 
 
-## Snow College Policies:
-The [Snow College Policies](https://snow.instructure.com/courses/474797) are posted online. Be sure to review the following in the policies:
-* Americans with Disabilities Act (ADA)
-* Title IX
-* Family Educational Rights and Privacy Act (FERPA)
-* Triggers
-* Plagiarism
+Statistics is actually the core of Generative AI. Computers use statistics and probabilities to determine output text. We will learn a little more about Generative AI in the class, but more thoroughly in MATH 3480.
+
+Throughout the semester, you may only use generative AI when I provide specific direction to do so. We will use generative AI in a guided way to ensure that course learning outcomes and pedagogy are fully supported.
+
+As the instructor, I reserve the right to disqualify homework, project, and exam scores from the grade if there is evidence of improper AI use. If improper AI use is suspected, I may call you in to discuss the situation. __Remember that you are in charge of your own education__. Do not cheat yourself just to make life easy. You won't have that chance in the professional world.
+
+## Policies
+For additional policies, check the Simple Syllabus in Canvas

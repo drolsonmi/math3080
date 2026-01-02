@@ -14,7 +14,7 @@ You will also need access to DataCamp. The link for our DataCamp class is on the
 -----
 ### Additional (Optional) Textbooks and Resources
 There are other fantastic resources which we will refer to occasionally this semester, or use more completely in future semesters:
-* Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), v0.6, 2019.
+* Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), 2019.
 * James, Gareth, et al., [*Introduction to Statistical Learning*](https://www.statlearning.com/resources-python), 2023.
 * Hastie, Trevor, et al., [*The Elements of Statistical Learning*](https://hastie.su.domains/ElemStatLearn/), 2009.
 * Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019.
@@ -30,7 +30,7 @@ Textbook for MATH 3480
 
 > All textbooks are available for free following the links. The *Data Science from Scratch* textbook is available on the O'Reilly publishing website. Snow College has a license with O'Reilly, which gives you free access to this book and many others. Here is how to access O'Reilly textbooks:
 > 1. Navigate to [https://www.oreilly.com/library/view/temporary-access/?orpqLinks](https://www.oreilly.com/library/view/temporary-access/?orpqLinks).
-> 2. Select "Institution not listed?"
+> 2. Select "Snow College"
 > 3. Enter you Snow College email address
 > 4. Search for and read the textbook
 
