@@ -27,11 +27,11 @@ Following is my planned schedule for the course. It is incomplete at this point,
 |   3   | Jan 12 | Nature of Data                             |                         |
 |       |        | __*----- Python Basics -----*__            |                         |
 |   4   | Jan 14 | Python Basics                              | McKinney, Chapters 2-4  |
-|   5   | Jan 16 | More Python                                | McKinney, Chapters 2-4  |
+|   5   | Jan 16 | Pandas                                     | McKinney, Chapter 5     |
 |       | Jan 19 | *MLK Jr. Day - No School*                  |                         |
-|   6   | Jan 21 | Pandas                                     | McKinney, Chapter 5     |
 |       |        | __*----- Loading Data -----*__             |                         |
-|   7   | Jan 23 | Loading Data from a File                   | McKinney, Chapter 6     |
+|   6   | Jan 21 | Loading data from a file                   | McKinney, Chapters 5-6  |
+|   7   | Jan 23 | Web Scraping                               | McKinney, Chapter 6     |
 |   8   | Jan 26 | Loading Data from API                      | McKinney, Chapter 6     |
 |       |        | __*----- Data Wrangling -----*__           |                         | 
 |   9   | Jan 28 | Cleaning Data                              | McKinney, Chapter 7     |
