@@ -19,65 +19,66 @@ This class has a prerequisite of MATH 2040 or MATH 3040. You are expected to be 
 
 Following is my planned schedule for the course. It is incomplete at this point, but will be changed as the semester progresses. The textbooks and videos are found on the [Textbooks](https://github.com/drolsonmi/math3080/blob/main/3080_Textbooks.md) page.
 
-|  Day  | Date   | Lecture                                    | Reading                 |
-| :---: | :----- | :----------------------------------------- | :---------------------- |
-|       |        | __*----- Data Science Overview -----*__    |                         |
-|   1   | Jan 7  | What is Data Science?                      |                         |
-|   2   | Jan 9  | Machine Learning Process                   |                         |
-|   3   | Jan 12 | Nature of Data                             |                         |
-|       |        | __*----- Python Basics -----*__            |                         |
-|   4   | Jan 14 | Python Basics                              | McKinney, Chapters 2-4  |
-|   5   | Jan 16 | Pandas                                     | McKinney, Chapter 5     |
-|       | Jan 19 | *MLK Jr. Day - No School*                  |                         |
-|       |        | __*----- Loading Data -----*__             |                         |
-|   6   | Jan 21 | Loading data from a file                   | McKinney, Chapters 5-6  |
-|   7   | Jan 23 | Web Scraping                               | McKinney, Chapter 6     |
-|   8   | Jan 26 | Loading Data from API                      | McKinney, Chapter 6     |
-|       |        | __*----- Data Wrangling -----*__           |                         | 
-|   9   | Jan 28 | Cleaning Data                              | McKinney, Chapter 7     |
-|  10   | Jan 30 | Data Wrangling part 1                      | McKinney, Chapter 8     |
-|  11   | Feb 2  | Data Wrangling - Joins                     | McKinney, Chapter 8, 10 |
-|  12   | Feb 4  | In-class Project: Data Wrangling           |                         |
-|       |        | __*----- Graphing -----*__                 |                         |
-|  13   | Feb 6  | Types of Graphs / Continue Project         |                         |
-|  14   | Feb 9  | Graphing                                   |                         |
-|  15   | Feb 11 | Exploratory Data Analysis                  |                         |
-|  16   | Feb 13 | Interactive Graphs                         |                         |
-|       | Feb 16 | *President's Day - No School*              |                         |
-|  17   | Feb 18 | In-class Project: Stocks & Graphing        |                         |
-|  18   | Feb 20 | Scaling                                    |                         |
-|  19   | Feb 23 | In-class Project: Stocks & Graphing        |                         |
-|  20   | Feb 25 | Ethics - Poor Graphs                       | Irizarry, Chapter 9     |
-|  21   | Feb 27 | More work on project                       |                         |
-|       | Mar 2  | *Spring Break*                             |                         |
-|       | Mar 4  | *Spring Break*                             |                         |
-|       | Mar 6  | *Spring Break*                             |                         |
-|  22   | Mar 9  | Midterm Review                             |                         |
-|  23   | Mar 11 | Midterm Review                             |                         |
-|  24   | Mar 13 | __Midterm__                                |                         |
-|       |        | __*----- Statistics -----*__               |                         |
-|  25   | Mar 16 | Intro to Machine Learning                  |                         |
-|  26   | Mar 18 | The ML Process / Cross Validation          |                         |
-|  27   | Mar 20 | Classification Evaluation Measures         |                         |
-|  28   | Mar 23 | Regression Evaluation Measures             |                         |
-|       |        | __*----- Linear Regression -----*__        |                         |
-|  29   | Mar 25 | Variance, Covariance, Correlation          |                         |
-|  30   | Mar 27 | Linear Regression                          |                         |
-|  31   | Mar 30 | __Project__: Linear Regression             |                         |
-|  32   | Apr 1  | __Project__: Linear Regression             |                         |
-|       | Apr 3  | *April Break - No School*                  |                         |
-|       |        | __*----- Bayes' Theorem -----*__           |                         |
-|  33   | Apr 6  | Bayes' Theorem                             |                         |
-|  34   | Apr 8  | Naive Bayes Model                          |                         |
-|       |        | __*----- Logistic Regression -----*__      |                         |
-|  35   | Apr 10 | Logistic Regression                        |                         |
-|  36   | Apr 13 | Logistic Regression Model                  |                         |
-|  37   | Apr 15 | __Project__: Logistic Regression           |                         |
-|  38   | Apr 17 | __Project__: Logistic Regression           |                         |
-|  39   | Apr 20 | Ethics                                     |                         |
-|  40   | Apr 22 | Review                                     |                         |
-|  41   | Apr 24 | Review                                     |                         |
-|       | Apr 29 | __Final Exam__ in our classroom at 7:00 am |                         |
+| Date    | Lecture | Reading |
+| :-----: | :------ | :------ |
+|         | __*----- Data Science Overview -----*__                 | |
+| Jan 7   | What is Data Science?                                   | a |
+| Jan 9   | Nature of Data                                          | b |
+| Jan 12  | Machine Learning Process and CRISP-DM                   | b |
+|         | __*----- Python Basics -----*__                         | |
+| Jan 14  | Python Basics                                           | McKinney, Chs 2-4 |
+| Jan 16  | Pandas                                                  | McKinney, Ch 5 |
+|         | __*----- Loading Data -----*__                          | |
+| Jan 19  | *MLK Jr. Day - No School*                               |
+| Jan 21  | Loading data from a file                                | McKinney, Chs 5-6 |
+| Jan 23  | Web Scraping                                            | McKinney, Ch 6; Irizarry, Ch 23 |
+| Jan 26  | Loading Data from API                                   | McKinney, Ch 6 |
+|         | __*----- Data Wrangling -----*__                        | |
+| Jan 28  | Cleaning Data                                           | McKinney, Ch 7 |
+| Jan 30  | Data Wrangling part 1                                   | McKinney, Ch 8 |
+| Feb 2   | Data Wrangling - Joins                                  | McKinney, Ch 8, 10; Irizarry, Ch 22 |
+|         | __*----- Graphing -----*__                              | |
+| Feb 4   | Types of Graphs                                         | b |
+| Feb 6   | Graphing                                                | b |
+| Feb 9   | Exploratory Data Analysis                               | b |
+| Feb 11  | Interactive Graphs                                      | b |
+| Feb 13  | Ethics - Poor Graphs                                    | Irizarry, Ch 9 |
+| Feb 16  | *President's Day - No School*                           |
+| Feb 18  | Scaling                                                 | b |
+| Feb 20  | Midterm Review                                          | |
+| Feb 23  | __Project__: Movies                                     | |
+| Feb 25  | Midterm Review                                          | |
+| Feb 27  | __Midterm__                                             | |
+| Mar 2   | *Spring Break - No School*                              |
+| Mar 4   | *Spring Break - No School*                              |
+| Mar 6   | *Spring Break - No School*                              |
+| Mar 9   | Virtual Environments                                    | b |
+|         | __*----- Statistics -----*__                            | |
+| Mar 11  | Normal Distributions and 5-number summary               | b |
+| Mar 13  | Variance, Covariance, Correlation                       | b |
+| Mar 16  | Hypothesis Testing                                      | b |
+|         | __*----- Machine Learning -----*__                      | |
+| Mar 18  | Intro to Machine Learning                               | b |
+| Mar 20  | The ML Process / Cross Validation                       | b |
+|         | __*----- Regression: Linear Regression -----*__         | |
+| Mar 23  | Regression Evaluation Measures                          | b |
+| Mar 25  | Linear Regression                                       | b |
+| Mar 27  | __Project__: Linear Regression                          | |
+|         | __*----- Classification: Logistic Regression -----*__   | |
+| Mar 30  | Classification Evaluation Measures                      | b |
+| Apr 1   | Logistic Regression                                     | b |
+| Apr 3   | *April Break - No School*                               |
+| Apr 6   | Logistic Regression Model                               | b |
+| Apr 8   | __Project__: Logistic Regression                        | |
+|         | __*----- Clustering: Hierarchical Clustering -----*__   | |
+| Apr 10  | Hierarchical Clustering                                 | b |
+| Apr 13  | __Project__: Hierarchical Clustering                    | |
+| Apr 15  | Ethics                                                  | b |
+| Apr 17  | Ethics                                                  | |
+| Apr 20  |                                                         | |
+| Apr 22  | Review                                                  |
+| Apr 24  | Review                                                  |
+| Apr 29 | __Final Exam__ in our classroom at 7:00 am |                         |
 
 -----
 # Lectures
