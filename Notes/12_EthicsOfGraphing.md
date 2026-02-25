@@ -126,7 +126,7 @@ Could this be deceptive?
 
 ---
 
-# Example of Misleadding Statistics
+# Example of Misleading Statistics
 It likely isn't purposefully deceptive - just a wording issue. But here is a scenario where their statement is true, but completely misleading.
 
 |         | White | Non-White |
@@ -135,6 +135,42 @@ It likely isn't purposefully deceptive - just a wording issue. But here is a sce
 | Younger |  20%  |    10%    |
 
 Younger AND non-white groups would be 20%+25%+10%=55%, <br>a majority, though the biggest problem is older white voters.
+
+---
+
+# Example of Misleading Statistics
+<div class="grid grid-cols-2 gap-4">
+<div>
+
+<img src="./images/12_EthicsOfGraphing/Trump_employment.png" width=85% alt="">
+
+</div>
+<div>
+From the 2026 State of the Union address
+
+
+</div>
+</div>
+
+---
+
+# Example of Misleading Statistics
+<div class="grid grid-cols-2 gap-4">
+<div>
+
+<img src="./images/12_EthicsOfGraphing/Trump_employment_full.png" width=85% alt="">
+
+</div>
+<div>
+From the 2026 State of the Union address
+
+Fact-checking article published by BBC news on Wednesday, February 25, 2026
+
+<font size=3><a href="https://www.bbc.com/news/articles/cgmlzg0p8k2o">https://www.bbc.com/news/articles/cgmlzg0p8k2o</a></font>
+
+
+</div>
+</div>
 
 ---
 
