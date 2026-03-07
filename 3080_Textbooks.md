@@ -4,6 +4,7 @@ In this class, we will focus most of our attention on the following books:
 
 * McKinney, Wes, [*Python for Data Analysis*](https://wesmckinney.com/book/), 3rd Edition, 2022.
 * Irizarry, Rafael, [*Introduction to Data Science*](https://rafalab.dfci.harvard.edu/dsbook-part-1/), 2020.
+* James, Gareth, et al., [*Introduction to Statistical Learning*](https://www.statlearning.com/), 2023.
 
 <!--![https://learning.oreilly.com/covers/urn:orm:book:9781492041122/200w/](https://learning.oreilly.com/library/view/data-science-from/9781492041122/) ![https://mathfordata.github.io/assets/images/MathForData.png](https://mathfordata.github.io/) ![https://wesmckinney.com/book/images/cover.png](https://wesmckinney.com/book/)-->
 
@@ -15,7 +16,6 @@ You will also need access to DataCamp. The link for our DataCamp class is on the
 ### Additional (Optional) Textbooks and Resources
 There are other fantastic resources which we will refer to occasionally this semester, or use more completely in future semesters:
 * Phillips, Jeff, [*Mathematical Foundations for Data Analysis*](https://mathfordata.github.io/), 2019.
-* James, Gareth, et al., [*Introduction to Statistical Learning*](https://www.statlearning.com/resources-python), 2023.
 * Hastie, Trevor, et al., [*The Elements of Statistical Learning*](https://hastie.su.domains/ElemStatLearn/), 2009.
 * Grus, Joel, [*Data Science from Scratch*](https://learning.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition, 2019.
 
