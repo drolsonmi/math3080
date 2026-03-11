@@ -1,3 +1,15 @@
+<head>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
 # Statistical Learning
 Reading
 * James et al., Chapter 2
@@ -42,7 +54,7 @@ However, no value exactly follows this relationship, so the true equation is,
 
 $$y = f(x) + \epsilon$$
 
-where $\epsilon$ is a random error term. This is truth.
+where $\epsilon$ is a random error term. These errors come from outside influences that we have no control over, known as __confounding variables__. The function $f(x)$ that the data follows is truth.
 
 In reality, though, we usually don't know $f(x)$. We often have no way of knowing if there even is a true relationship. So, we are left to analyze (like we did using the tools we learned before Spring Break) and to create models to try to follow statistical patterns to estimate $f(x)$. This estimate is now $\hat{f}(x)$.
 > Draw $\hat{f}(x)$ somewhat off of $f(x)$
@@ -65,6 +77,20 @@ The term $[f(x) - \hat{f}(x)]^2$ represents the reducible error as we can minimi
 
 As a result, there will always be an upper bound on our accuracy metrics. If we ever get a 100% accuracy measurement on our models, we should be very suspicious...
 
+## Overfitting
+We can make $\hat{f}(x)$ fit $f(x)$ perfectly with high-degree polynomials
+> Graph a scatterplot with a high-degree polynomial hitting every single point and another graph showing the error of our model going down as the degree of our model goes up
+
+However, if we introduce a new dataset that this model hasn't seen before, we'll see the error drop to a point. But once the model reaches a degree high enough that it starts being taylored to the training data, the errors for this new dataset will go up.
+> Add errors for the new dataset to the error graph
+
+How do we prevent this? We use a method called __cross validation__. We take our dataset and set aside 20-40% of our data in reserve for testing. We use the remaining 60-80% of our data to train our model. Once our model is trained, we check the performance of our model with our test data.
+
+Now what is the problem with overfitting? Why not try to catch all the points in our training data? 
+* The job of $\hat{f}(x)$ is to try to model $f(x)$
+* When overfitting $\hat{f}(x)$, we are also trying to model $\epsilon$, but since $\epsilon$ is just random error, that means we are trying to model randomness which is impossible
+
+Basically, overfitting is trying to reduce the irreducible error.
 
 ## Models vs. Inference
 In one of our first lectures, we learned that there are three stages to Data Science, and we used an astronomical example for this:
