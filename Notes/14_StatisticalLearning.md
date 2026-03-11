@@ -1,4 +1,7 @@
 # Statistical Learning
+Reading
+* James et al., Chapter 2
+
 ## What is Statistical Learning?
 This is an umbrella term for all statistical algorithms used to learn from data
 * aka Data Mining
