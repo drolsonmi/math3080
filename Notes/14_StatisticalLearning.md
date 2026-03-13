@@ -54,16 +54,16 @@ $$\hat{y} = \hat{f}(x)$$
 Can we improve $\hat{f}(x)$? Absolutely! We do this by adjusting the settings of $\hat{f}(x)$ (known as __parameters__) little by little. By making little adjustments, we can be sure to help $\hat{f(x)})$ approach $f(x)$ as closely as possible.
 
 
-There are two error quantities involved in this prediction:
+How close can we get? There are two error quantities involved in this prediction:
 * __Reducible error__: The part of the error we can minimize as we bring $\hat{f}(x)$ closer to $f(x)$
 * __Irreducible error__: The part of the error we can't reduce because of the noise (random error term $\epsilon$)
 
 To explain this mathematically, we can find the expected value of the squared difference between the predicted and true values of y.
 
 $$\begin{align*}E(y-\hat{y})^2 &= E[f(x) + \epsilon - \hat{f}(x)]^2 \\
-&= [f(x) - \hat{f}(x)]^2 + Var(\epsilon)\end{align*}$$
+&= [f(x) - \hat{f}(x)]^2 + var(\epsilon)\end{align*}$$
 
-The term $[f(x) - \hat{f}(x)]^2$ represents the reducible error as we can minimize this difference as the model improves. However, the random errors in $Var(\epsilon)$ can never be reduced.
+The term $[f(x) - \hat{f}(x)]^2$ represents the reducible error as we can minimize this difference as the model improves. However, the random errors in $var(\epsilon)$ can never be reduced.
 
 As a result, there will always be an upper bound on our accuracy metrics. If we ever get a 100% accuracy measurement on our models, we should be very suspicious...
 
@@ -96,15 +96,19 @@ When we are modeling, our goal is to find the value of $\hat{y}$, but the functi
 
 However, when we are doing Inference, our goal is not necessarily to find the value of $\hat{y}$, but to understand and estimate $f(x)$ itself. (This was Newton's job in the astronomy example.)
 
+## Our plan from here
+* What are supervised models? 
+  * Models with labels (pictures of cats, dogs, cows, goats, etc.)
+* What are unsupervised models?
+  * Where should we build 5 franchises of our store given the distribution of a bunch of cities?
+
+Quantitative vs. Categorical Models
+
 These are a list of some of the common models that we will be seeing through this semester and the next:
 
 ![Machine Learning Landscape](https://raw.githubusercontent.com/drolsonmi/math3480/refs/heads/main/Notes/Images/3480_ML_Landscape.png)
 
-* What are supervised models? 
-* What are unsupervised models?
-
-We'll learn most of these models throughout the three semesters. This semester, we will for sure learn:
-* Linear Regression
-* Logistic Regression
-* Possibly k-Nearest Neighbors
-* Possibly another if there's time
+We'll learn most of these models throughout the three semesters. This semester, I hope to show one model:
+* Regression (Quantitative Supervised model): Linear Regression
+* Classification (Categorical Supervised model): Logistic Regression
+* Clustering (Categorical Unsupervised model): Hierarchical Clustering
