@@ -20,19 +20,6 @@ This is an umbrella term for all statistical algorithms used to learn from data
 * aka Machine Learning
 * algorithms aka models
 
-These are a list of some of the common models that we will be seeing through this semester and the next:
-
-![Machine Learning Landscape](https://raw.githubusercontent.com/drolsonmi/math3480/refs/heads/main/Notes/Images/3480_ML_Landscape.png)
-
-* What are supervised models? 
-* What are unsupervised models?
-
-We'll learn most of these models throughout the three semesters. This semester, we will for sure learn:
-* Linear Regression
-* Logistic Regression
-* Possibly k-Nearest Neighbors
-* Possibly another if there's time
-
 ## Notation
 Some common notation:
 * $y$ is used for true output values
@@ -43,7 +30,7 @@ Some common notation:
 
 Other notation can be given as we go along.
 
-## Statistical Learning
+## How Statistical Learning Works
 Let's consider a study comparing Years of Education to a person's Income.
 > Draw a series of points that are almost sigmoidal with noise
 
@@ -64,7 +51,10 @@ Since we have no way of estimating $\epsilon$, this is the best we can often do,
 $$\hat{y} = \hat{f}(x)$$
 
 ## Statistical Error
-Can we improve $\hat{f}(x)$? Absolutely! There are two error quantities involved in this prediction:
+Can we improve $\hat{f}(x)$? Absolutely! We do this by adjusting the settings of $\hat{f}(x)$ (known as __parameters__) little by little. By making little adjustments, we can be sure to help $\hat{f(x)})$ approach $f(x)$ as closely as possible.
+
+
+There are two error quantities involved in this prediction:
 * __Reducible error__: The part of the error we can minimize as we bring $\hat{f}(x)$ closer to $f(x)$
 * __Irreducible error__: The part of the error we can't reduce because of the noise (random error term $\epsilon$)
 
@@ -105,3 +95,16 @@ When we are modeling, our goal is to find the value of $\hat{y}$, but the functi
 * In fact, some argue that Neural Networks shouldn't be used at all because even though we know the number that make the model $\hat{f}(\vec{x})$, we really don't have any meaning to those numbers
 
 However, when we are doing Inference, our goal is not necessarily to find the value of $\hat{y}$, but to understand and estimate $f(x)$ itself. (This was Newton's job in the astronomy example.)
+
+These are a list of some of the common models that we will be seeing through this semester and the next:
+
+![Machine Learning Landscape](https://raw.githubusercontent.com/drolsonmi/math3480/refs/heads/main/Notes/Images/3480_ML_Landscape.png)
+
+* What are supervised models? 
+* What are unsupervised models?
+
+We'll learn most of these models throughout the three semesters. This semester, we will for sure learn:
+* Linear Regression
+* Logistic Regression
+* Possibly k-Nearest Neighbors
+* Possibly another if there's time
