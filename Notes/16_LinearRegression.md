@@ -14,6 +14,8 @@ MathJax = {
 Reading
 * James et al., Chapter 3
 
+[Linear Regression Lecture Code](../Code/16_LinearRegression.ipynb)
+
 ## Variance
 Define two datasets,
 $$X=\{x_0,x_1,x_2,\dots\}\qquad Y=\{y_0,y_1,y_2,\dots\}$$
@@ -176,7 +178,7 @@ plt.show()
 
 ![Linear Regression model fit to data](./images/16_linreg.png)
 
-## Python hint: returning multiple values from a function
+### Python hint: returning multiple values from a function
 You can return multiple values from a function within python. This is useful when you need to return both a weight and a bias in your model.
 
 ```python
@@ -191,15 +193,94 @@ print(f"b0 = {b0} and b1 = {b1}")
 
 <pre>b0 = 11 and b1 = 28</pre>
 
-## Linear Regression with Iris Dataset
+### How good is a Linear Regression Model?
+No model is perfect. We are going to look at three aspects of assessing linear regression models.
+
+#### RSE, Correlation, $R^2$
+The __residual standard error__ is a measure of the residuals.
+
+$$RSS = \sum_{i=1}^n (y_i - \hat{y}_i)^2 \qquad RSE = \sqrt{\frac{RSS}{n-2}}$$
+
+We have already learned about correlation. $R^2$ is just the square of correlation.
+
+#### Evaluating a Linear Regression Model
+We learned of a few evauation methods for regression models:
+* MAE, SSE, MSE, RMSE, RMSLE
+* There are others, but we won't show them in these classes
+
+Let's calculate the MAE of some test data for our model ($27.3637 + 2.3804x$). Let's say that 
+
+|   X   |    Y   |    Y'   |
+| :---: | :----: | :-----: |
+|  4.5  |  38.5  | 38.0755 | 
+|  5.5  |  39.2  | 40.4559 |
+|  4.7  |  38.0  | 38.5516 |
+
+$$MAE = \frac{|38.0755 - 38.5| + |40.4559 - 39.2| + |38.5516 - 38.0|}{3} = 0.744$$
+
+Is this good? How do we know if it's good?
+* This error describes how our predicted $\hat{y}$ value compares to our true $y$ value, so we should compare our error to our true $y$ value
+
+I like to take the ratio of my error to the mean of $y$:
+
+$$\frac{MAE}{\bar{y}} = \frac{0.744}{40.2857} = 0.0185$$
+
+This means that my MAE represents 1.85% of the mean of my true value. That's pretty good! I'd say my model did a really good job on this batch of test data!
+* Keep in mind that this worked well on this batch of test data. It might not do as well on other test data.
+* Note that this only works well for MAE and RMSE since these error metrics have the same unit of measurement as $y$. If you want a similar method for the other error metrics, they would have to be adapted.
+
+#### Inference of a Linear Regression Model
+Remember that our parameters are just estimates. They aren't perfect. How confident are we that our parameters are correct?
+
+We can calculate a confidence interval for our parameters. Recall that we can calculate a __standard error__ as,
+
+$$SE(\hat{\mu}) = \sqrt{\frac{\sigma^2}{n}} = \frac{\sigma}{\sqrt{n}}$$
+
+Another way to look at it is that the variance of $\hat{mu}$ is the square of the standard error:
+
+$$Var(\hat{\mu}) = SE(\hat{\mu})^2 = \frac{\sigma^2}{n}$$
+
+But we want the standard error for $\hat{\beta}_0$ and $\hat{\beta}_1$. This is a little more complicated, but takes on a similar form:
+
+$$SE(\hat{\beta}_0)^2 = \sigma^2\left[\frac{1}{n} + \frac{\bar{x}^2}{\sum_{i=1}^n (x_i - \bar{x})^2}\right] \qquad SE(\hat{\beta}_1)^2 = \frac{\sigma^2}{\sum_{i=1}^n (x_i - \bar{x})^2}$$
+
+In this case, $\sigma = RSE$. Once we have our standard error, we can put together our confidence interval:
+
+$$\beta_0 = \hat{\beta}_0 \pm 2\cdot SE(\hat{\beta}_0) \qquad \beta_1 = \hat{\beta}_1 \pm 2\cdot SE(\hat{\beta}_1)$$
+
+To see this all put together, let's revisit our initial table of $X$ and $Y$ values, but let's add two new rows with predicted $\hat{Y}$ values using our linear regression equation $\hat{Y} = 27.3637 + 2.3804*X$ and with the residuals $e = Y - \hat{Y}$.
+
+| $X$       |   5   |   4   |   7   |   8   |   3   |   5   |   6   |
+| :-------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| $Y$       |  42   |  37   |  44   |  46   |  36   |  37   |  40   |
+| $\hat{Y}$ | 39.27 | 36.89 | 44.03 | 46.41 | 34.50 | 39.27 | 41.65 |
+| Residuals |  2.73 |  0.11 | -0.03 | -0.41 |  1.50 | -2.27 | -1.65 |
+
+$$RSS = (2.73^2) + (0.11^2) + (-0.03)^2 + (-0.41)^2 + (1.50)^2 + (-2.27)^2 + (-1.65)^2 = 17.734$$
+
+$$RSE = \sqrt{\frac{RSS}{7-2}} = \sqrt{\frac{17.734}{5}} = 1.883$$
+
+$$SE(\hat{\beta}_0) = 2.53 \qquad \beta_0 = 27.3637 \pm 5.06$$
+
+$$SE(\hat{\beta}_1) = 0.45 \qquad \beta_1 = 2.3804 \pm 0.90$$
+
+Let's plot these four lines in addition to our calculated regression line:
+
+$$y = (27.3637 + 5.06) + (2.3804 + 0.90)x \qquad y = (27.3637 + 5.06) + (2.3804 - 0.90)x$$
+$$y = (27.3637 - 5.06) + (2.3804 + 0.90)x \qquad y = (27.3637 - 5.06) + (2.3804 - 0.90)x$$
+
+
+## Linear Regression with the Iris Dataset
 Find the linear regression line for the iris dataset using the Petal Length and the Petal Width. Then test it with the following numbers and evaluate using a MSE.
 | Petal Length | Petal Width |
 | :----------: | :---------: |
-|  3.0         |   0.9       |
-|  2.5         |   0.8       |
-|  5.0         |   1.2       |
-|  4.3         |   1.5       |
-|  1.2         |   0.2       |
+|  5.0         |   1.8       |
+|  4.0         |   1.4       |
+|  7.0         |   2.2       |
+|  3.5         |   0.9       |
+|  3.0         |   0.8       |
+|  1.5         |   0.5       |
+|  6.0         |   2.5       |
 
 > Code is in [~/Code/16_LinearRegression.ipynb](../Code/16_LinearRegression.ipynb) file. Remember to follow CRISP-DM:
 > * State goals
