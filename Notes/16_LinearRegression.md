@@ -1,4 +1,5 @@
 <head>
+<title>Linear Regression</title>
 <script>
 MathJax = {
   tex: {
@@ -12,9 +13,24 @@ MathJax = {
 
 # Linear Regression
 Reading
-* James et al., Chapter 3
+* James et al., 3.1 Simple Linear Regression
 
-[Linear Regression Lecture Code](../Code/16_LinearRegression.ipynb)
+[Linear Regression Lecture Code](./code/16_LinearRegression.ipynb)
+
+## Regression Models
+<img src="https://raw.githubusercontent.com/drolsonmi/math3480/refs/heads/main/Notes/Images/3480_ML_Landscape.png" width=550 alt="Machine Learning Landscape">
+
+We will start by looking at models that provide a numerical output. 
+* We can compare predictions ($\hat{y}$) to the true value ($y$) by measuring the actual distance ($\hat{y}-y$), also known as a __residual__
+* To measure the effectiveness of a regression model, we need metrics based on residuals, which means we use,
+  * MAE, SSE, MSE, RMSE, RMSLE
+  * Others (we'll see some)
+
+There are many regression models. This semester, we'll only choose one. We'll focus on *linear regression*. You have likely seen linear regression in past statistics courses. We will delve into it a little more deeply from a data science perspective.
+
+Also, note that this will not be the last time we see linear regression. In MATH 3280, we will expand our view of this model by looking at multi-linear regression, or linear regression with multiple input variables. Then in MATH 3480, we'll look at other variants such as polynomial regression, lasso regression, and ridge regression.
+
+To start our discussion on linear regression, let's review the basics of variance, covariance, and correlation.
 
 ## Variance
 Define two datasets,
@@ -282,10 +298,25 @@ Find the linear regression line for the iris dataset using the Petal Length and 
 |  1.5         |   0.5       |
 |  6.0         |   2.5       |
 
-> Code is in [~/Code/16_LinearRegression.ipynb](../Code/16_LinearRegression.ipynb) file. Remember to follow CRISP-DM:
+> Code is in [~/Code/16_LinearRegression.ipynb](./code/16_LinearRegression.ipynb) file. Remember to follow CRISP-DM:
 > * State goals
 > * Plot data
 > * Train model
 > * Plot model
 > * Make predictions
 > * Evaluate predictions with MSE
+
+## Multi-Linear Regression
+How often is an output variable affected by only one input variable? Very rarely. Wouldn't it be more effective to combine multiple variables into the model? For example, is the chance of rain only affected by temperature? No. It is also affected by humidity, cloud cover, pressure, atmospheric stability, and a large number of other variables. All these variables need to be accounted for in predicted the chance of rain.
+
+Combining multiple variables in a linear regression is known as __multi-linear regression__. This model will be discussed more thoroughly in MATH 3280 as the techniques needed for training a multi-linear regression model are taught in that class. However, it is important to discuss here as it introduces the idea of a multi-dimensional model.
+
+When we introduce a new variable into our linear regression equation, we need to determine how much it influences the output. The amount of influence is determined by the coefficient, which is why we call it a weight.
+
+$$y = \beta_0 + \beta_1 x_1 + \beta_2 x_2$$
+
+In this equation, we still have a bias term which provides a starting point. Then we have one input and the weight that it provides to affecting the output. But now we have added another input term and its weight that it provides to affecting the output as well. As you can imagine, we can add as many terms as we want.
+
+$$y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \beta_3 x_3 + \dots + \beta_n x_n$$
+
+This is an $n$-dimensional __multi-linear regression__ equation where $n$ variables all affect the output with different weights.
