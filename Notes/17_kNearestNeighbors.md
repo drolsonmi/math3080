@@ -59,7 +59,7 @@ How do we determine the distance?
 #### Euclidean Distance
 The __euclidean distance__ is the typical distance we have learned since gradeschool. It can be depicted with a right triangle and solved using the Pythagorean Theorem.
 
-First, let's say that we have two points $a$ and $b$. We want the distance $d$ between $a$ and $b$. Let's define $d_x$ to be the distance in the x-dimension, so $d_x = |a_x - b_x|$. Then we can depict the distance between two points as a right triangle with sides $d_x$ and $d_y$ with $d$ as the hypoteneuse.
+First, let's say that we have two points $a$ and $b$. We want the distance $d$ between $a$ and $b$. Let's define $d_x$ to be the distance in the x-dimension, so $d_x = a_x - b_x$. Then we can depict the distance between two points as a right triangle with sides $d_x$ and $d_y$ with $d$ as the hypoteneuse.
 
 In 2 dimensions, the distance between points $a$ and $b$ is $d$ and can be calculated as,
 
