@@ -124,3 +124,10 @@ Classification models often have two methods to interpret:
   * $P(A) = \tfrac{3}{11} = 0.18$
   * $P(B) = \tfrac{8}{11} = 0.73$
   * $P(C) = \tfrac{1}{11} = 0.09$
+
+## k-Nearest Neighbors
+The kNN model is a classification model used to categorize points based on the $k$ nearest points around them.
+
+However, we can actually also use the kNN algorithm as a regressor as well! To predict the value of a point, we find the $k$ nearest points, then average their $y$ values. This average will be our prediction $\hat{y}$.
+
+$$\hat{y} = \frac{1}{k}\sum_{j=1}^k y_j$$
