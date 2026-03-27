@@ -53,19 +53,18 @@ Following is my planned schedule for the course. It is incomplete at this point,
 | Mar 4   | *Spring Break - No School*                              |
 | Mar 6   | *Spring Break - No School*                              |
 | Mar 9   | Virtual Environments                                    | b |
-|         | __*----- Statistics -----*__                            | |
-| Mar 11  | Normal Distributions and 5-number summary               | b |
-| Mar 13  | Variance, Covariance, Correlation                       | b |
-| Mar 16  | Hypothesis Testing                                      | b |
-|         | __*----- Machine Learning -----*__                      | |
-| Mar 18  | Intro to Machine Learning                               | b |
-| Mar 20  | The ML Process / Cross Validation                       | b |
+|         | __*----- Statistical Learning -----*__                      | |
+| Mar 11  | Statistical Learning                                    | b |
+| Mar 13  | More on Statistical Learning                            | b |
+| Mar 16  | Evaluation of Machine Learning Models                   | b |
 |         | __*----- Regression: Linear Regression -----*__         | |
-| Mar 23  | Regression Evaluation Measures                          | b |
-| Mar 25  | Linear Regression                                       | b |
-| Mar 27  | __Project__: Linear Regression                          | |
+| Mar 18  | Variance, Covariance, Correlation                       | b |
+| Mar 20  | Linear Regression                                       | b |
+| Mar 23  | *Cancelled Class*                                       | |
+| Mar 25  | Evaluating Regression Models                            | b |
+| Mar 27  | Wrap up Regression / Intro to Classification            | |
+| Mar 30  | __Project__: Linear Regression                          | |
 |         | __*----- Classification: Logistic Regression -----*__   | |
-| Mar 30  | Classification Evaluation Measures                      | b |
 | Apr 1   | Logistic Regression                                     | b |
 | Apr 3   | *April Break - No School*                               |
 | Apr 6   | Logistic Regression Model                               | b |
