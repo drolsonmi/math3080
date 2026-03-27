@@ -30,7 +30,7 @@ For example, if you have a picture of a cat and a model classifies it as a horse
 There are a number of classification models. Most of these will be addressed in MATH 3480. This semester, we will focus on the k-Nearest Neighbors algorithm.
 
 ## The Concept behind k-Nearest Neighbors
-The k-Nearest Neighbors (KNN) algorithm takes a point and gives it a classification based on the characteristics of points near it.
+The k-Nearest Neighbors (kNN) algorithm takes a point and gives it a classification based on the characteristics of points near it.
 
 The value of $k$ tells kNN to look at the $k$ nearest points.
 * Count the number of neighbors with each category
