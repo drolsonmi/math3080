@@ -85,7 +85,7 @@ Essentially, we are just adding the length of all the dimensions together. Becau
 $$d = \sum_{i=0}^n |d_i|$$
 
 #### Norms
-We have seen how to measure a distance with a power of 1 and with a power of 2. Can we do it with a power of 3? 4? 20? 100? Yes! This distance measure is often called a __Norm__. 
+We have seen how to measure a distance with a power of 1 and with a power of 2. Can we do it with a power of 3? 4? 20? 100? Yes! This distance measure is often called a __Norm__. When we deal with a norm of power $p$, we specifically call it an $L_p$ norm.
 
 $$L_p = \left(\sum_{i=0}^n |d_i|^p\right)^{1/p}$$
 
