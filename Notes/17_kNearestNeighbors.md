@@ -92,6 +92,10 @@ $$L_p = \left(\sum_{i=0}^n |d_i|^p\right)^{1/p}$$
 * The Manhattan Distance is an L1-Norm since it is based on a power of 1
 * The Euclidean Distance is an L2-Norm since it is based on a power of 2
 
+It is hard to visualize the norms beyond the L2-norm. But we can see what it happening numerically.
+
+> Show `17_kNN_NormsDemo.xlsx`
+
 #### Infinity Norm
 There is another useful norm that is commonly seen, known as the L$\infty$-Norm.
 
