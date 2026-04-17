@@ -63,7 +63,7 @@ List these 7 benefits. As a class, discuss what each might mean and how it can b
     - Workers have stronger loyalty to employers who tackle the issues that resonate with them, especially ethical issues
 
 3. Safeguarding the promise of data
-    - Cisco research reports that for every \$1 invested in strengthening data privacy, the average company will see a return of \$2.70
+    - Cisco research reports that for every \$1 invested in strengthening data privacy, \\(y = mx + b\\) the average company will see a return of \$2.70
 
 4. Preparing in advance of AI regulation
     - Organizations that already have policies in place will be able to easily adapt when official regulation is put in place
