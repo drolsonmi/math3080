@@ -12,13 +12,15 @@ MathJax = {
 </head>
 
 # Ethics in Data Science
-## Statstical Learning
+## Review of Statstical Learning
 - Reminder about Modeling 
 
 $$y = f(x) + \epsilon \qquad\qquad \hat{y} = \hat{f}(x) \approx f(x)$$
 
 - Reducible and Irreducible Error
 - Amplification of Error
+
+Because of errors in models, it is easy to incorrectly use and to misinterpret models.
 
 -----
 
