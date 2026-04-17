@@ -3,7 +3,7 @@
 <script>
 MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    inlineMath: [['\\(', '\\)']],
     displayMath: [['$$', '$$'], ['\\[', '\\]']]
   }
 };
@@ -20,6 +20,31 @@ $$y = f(x) + \epsilon \qquad\qquad \hat{y} = \hat{f}(x) \approx f(x)$$
 - Reducible and Irreducible Error
 - Amplification of Error
 
+-----
+
+## Ethics
+Earlier in the semester, we discussed some of the Ethics of Graphing. But we never really defined ethics. What exactly do we mean when we talk about ethics?
+
+In general terms, __ethics__ is an ongoing process of articulating values, and in turn, questioning and justifying decisions based on those values, usually in terms of rights, obligations, benefits to society, or specific virtues.
+
+An __ethical dilemma__ is a situation where a difficult choice has to be made between different courses of action, each of which entails transgressing a moral principle.
+
+What are some common ethical concerns?
+- Transparency / Lack of Understanding / Lack of autonomy to make informed choices
+- Unfair bias
+- Security
+- Privacy
+- AI pseudoscience
+- Accountability to people
+- AI-driven unemployment and deskilling
+
+Ethical dilemmas happen frequently in Data Science. But living up to ethical standards has always shown to be a benefit to organizations and to society. When dealing with ethical dilemmas, it is important to remember:
+- Ethics requires an element of ingenuity to solve new moral challenges
+- Ethics requires humility and a willingness to confront difficult questions and even change opinions
+- Ethics should not be viewed as law or policy
+    - Ethics reflect values and expectations we have of one another - most of which have not been written down or enforced by a formal system
+
+-----
 
 ## Responsible AI
 At the beginning of the semester, we learned about CRISP-DM, a process for effective model development in Data Mining.
@@ -41,11 +66,12 @@ Since official frameworks haven't been passed yet, standards of __Responsible AI
 2. Fairness
 3. Accountability
 4. Privacy
+5. Safety and Reliability (Robustness)
+6. Social Benefit
 
-## Ethics
-Earlier in the semester, we discussed some of the Ethics of Graphing. But we never really defined ethics. What exactly do we mean when we talk about ethics?
+(The first four are commonly addressed. It is also common to see 5 and 6, just not as commonly as 1-4.)
 
-
+-----
 
 ## Benefits of Responsible AI
 Responsible AI = Successful AI
@@ -63,7 +89,7 @@ List these 7 benefits. As a class, discuss what each might mean and how it can b
     - Workers have stronger loyalty to employers who tackle the issues that resonate with them, especially ethical issues
 
 3. Safeguarding the promise of data
-    - Cisco research reports that for every \\$1 invested in strengthening data privacy, $y = mx + b$ the average company will see a return of \\$2.70
+    - Cisco research reports that for every \\$1 invested in strengthening data privacy, \\(y = mx + b\\) the average company will see a return of \\$2.70
 
 4. Preparing in advance of AI regulation
     - Organizations that already have policies in place will be able to easily adapt when official regulation is put in place
