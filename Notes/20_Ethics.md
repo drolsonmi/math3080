@@ -3,7 +3,7 @@
 <script>
 MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    inlineMath: [['\\(', '\\)']],
     displayMath: [['$$', '$$'], ['\\[', '\\]']]
   }
 };
@@ -44,6 +44,8 @@ Since official frameworks haven't been passed yet, standards of __Responsible AI
 
 ## Ethics
 Earlier in the semester, we discussed some of the Ethics of Graphing. But we never really defined ethics. What exactly do we mean when we talk about ethics?
+
+
 
 ## Benefits of Responsible AI
 Responsible AI = Successful AI
