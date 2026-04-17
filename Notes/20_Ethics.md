@@ -11,7 +11,7 @@ MathJax = {
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
-# Ethics in Data Science
+# Ethics and Responsible AI
 ## Review of Statstical Learning
 - Reminder about Modeling 
 
