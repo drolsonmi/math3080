@@ -115,6 +115,7 @@ Many of these norms are used throughout Data Science. With the kNN algorithm, th
 Let's take an example where we have a sample of 100 training points being divided into three categories A, B, and C. We take the nearest $k$ points where $k$ is the prime number nearest $\sqrt{n} = \sqrt{100} = 10$. So, let's choose $k=11$.
 
 We put a point on the graph and count the nearest $k=11$ points and get the following results:
+
   |   A   |   B   |   C   |
   | :---: | :---: | :---: |
   |   2   |   8   |   1   |
@@ -125,7 +126,7 @@ Classification models often have two methods to interpret:
 * With __Hard Classification__, we count the cases in each class and the majority wins
   * Since B had the most counts, we classify our point in category B.
 * With __Soft Classification__, we calculate a percentage for each class and report a probability of being in each class
-  * $P(A) = \tfrac{3}{11} = 0.18$
+  * $P(A) = \tfrac{2}{11} = 0.18$
   * $P(B) = \tfrac{8}{11} = 0.73$
   * $P(C) = \tfrac{1}{11} = 0.09$
 
