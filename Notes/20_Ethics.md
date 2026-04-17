@@ -43,7 +43,7 @@ Since official frameworks haven't been passed yet, standards of __Responsible AI
 4. Privacy
 
 ## Ethics
-- Ethics in Graphing
+Earlier in the semester, we discussed some of the Ethics of Graphing. But we never really defined ethics. What exactly do we mean when we talk about ethics?
 
 ## Benefits of Responsible AI
 Responsible AI = Successful AI
@@ -61,7 +61,7 @@ List these 7 benefits. As a class, discuss what each might mean and how it can b
     - Workers have stronger loyalty to employers who tackle the issues that resonate with them, especially ethical issues
 
 3. Safeguarding the promise of data
-    - Cisco research reports that for ever $1 invested in strengthening data privacy, the average company will see a return of $2.70
+    - Cisco research reports that for every \$1 invested in strengthening data privacy, the average company will see a return of \$2.70
 
 4. Preparing in advance of AI regulation
     - Organizations that already have policies in place will be able to easily adapt when official regulation is put in place
