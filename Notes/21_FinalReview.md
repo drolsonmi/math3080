@@ -48,8 +48,8 @@ Below is a summary of the topics we discussed in our class this semester.
 * Natural Functions and Model Functions
 * Reducible and Irreducible Error
 * Overfitting
-* Feature Scaling
 * Cross Validation
+* Feature Scaling
 
 ### Regression
 * Purpose
