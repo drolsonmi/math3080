@@ -9,7 +9,8 @@ A data scientist should be:
 Skills needed for a data scientist (in order)
 1. Passionate about some field 
     * DS for the sake of DS is generally not helpful - you need something to apply it to
-    * Many of the team leads are PhD's (in physics or )
+    * Pi-Model
+    * Many of the team leads are PhD's (Often in fields other than Data Science)
 2. Social skills
     * Working in teams
 3. Sense of humor

@@ -1,6 +1,6 @@
 One of the goals of this class is to help you earn a Data Analysis certificate. To earn this certificate, you must demonstrate that you understand the principles and can use programming to create and analyze data. Because of this, projects and exams in this class will be geared toward that certificate.
 
-To demonstrate your understanding of Data Analysis principles, you will have 2 projects and 2 exams:
+To demonstrate your understanding of Data Analysis principles, you will have 3 projects and 2 exams:
 
 ## Midterm Project
 The project will be your opportunity to demonstrate your ability to load, wrangle, and analyze data.
@@ -45,11 +45,21 @@ The exam will cover concepts discussed in class
 * Ethics
     * Ethics of Graphing
 
-## Final Project
-* Basic Machine Learning
-    * Linear Regression
-    * Logistic Regression
+## Regression Project
+* EDA
+* Linear Regression
+* Evaluating Regression Models
+
+## Classification Project
+* EDA
+* k-Nearest Neighbors
+* Evaluating Classification Models
 
 ## Final Exam
+* CRISP-DM
+* Basics of ETL and EDA
+* Statistical Learning
+* Types of Machine Learning Models
 * Ethics
+    * Ethics of Graphing
     * Responsible AI
