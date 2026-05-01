@@ -49,7 +49,11 @@ Ethical dilemmas happen frequently in Data Science. But living up to ethical sta
 -----
 
 ## Responsible AI
-At the beginning of the semester, we learned about CRISP-DM, a process for effective model development in Data Mining.
+A number of studies have shown that Software Engineers who use AI tools are more likely to write bad code, introducing bugs and vulnerability points. These could be major security risks for you and your company. AI can also introduce very simple logical errors that could affect the quality of your code.
+
+Programmers who write code from scratch can build the model from the ground, adding secure, correct code piece by piece. Many companies have sought to establish a set of guidelines to make effective use of AI. Such guidelines are important for every data scientist as we often use AI to help us make our code.
+
+At the beginning of the semester, we learned about CRISP-DM, guidelines for effective model development in Data Mining.
 - Remember, this is not a requirement, but a commonly accepted standard we use for effective analysis and model development
 
 But what are the standards for good AI development and usage? Is there something like CRISP-DM for AI on the whole?
@@ -72,6 +76,8 @@ Since official frameworks haven't been passed yet, standards of __Responsible AI
 6. Social Benefit
 
 (The first four are commonly addressed. It is also common to see 5 and 6, just not as commonly as 1-4.)
+
+Programmers who follow the principles of Responsible AI are more likely to build better, safer code.
 
 -----
 
