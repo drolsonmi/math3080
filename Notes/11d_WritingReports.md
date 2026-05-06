@@ -72,6 +72,8 @@ Compare that sentence to this one written from the data's perspective:
 
 The first example focuses on the author and even on the tools more than the data. The second example, on the other hand, focuses more on the data and what the data needed in order to tell a proper story.
 
+Similarly, writing phrases such as "You can see that..." can be replaced with "The data shows...", emphasizing the data.
+
 ### Conclusion
 - Don't write "In Conclusion"
 
