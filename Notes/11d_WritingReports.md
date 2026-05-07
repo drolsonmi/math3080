@@ -59,6 +59,13 @@ We want the reader to easily and quickly get your point. So,
 - Good grammar and spelling
     - Make sure the reading is as clear and straightforward as can be
 
+### Include only valid figures in the text
+We want the flow of the report to be as smooth as possible with little interruptions. To make that possible, do the following:
+- Include figures inline in the text of the report (including the figures at the end or on another page makes the reader have to flip back and forth, which disrupts the reading)
+- ONLY include VALID figures to the discussion 
+    - in EDA, we create tons of images. The reader doesn't need to see everything. Keep the images in your code, but only select the important images that relate to your conclusion
+    - Add figure numbers and captions for quick reference
+
 ### Don't write in first-person
 Remember that we are telling the story of the data, not the other way around. Our report should reflect what the data says, not what we did.
 
