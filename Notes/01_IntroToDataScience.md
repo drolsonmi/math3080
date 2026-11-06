@@ -51,3 +51,14 @@ Tools
 2. Code Asset Management (e.g. GitHub)
 3. Development Environments (or IDEs)
 4. Execution Environments
+
+## Role of AI in programming
+AI can make coding go so much faster. But we don't want AI to ...
+
+* AI bases code off of old systems (training from previously created material)
+* AI knows how to perform tasks. However, it doesn't have the picture of what is needed. That is what we are here for. We have the picture of what's needed and where things need to go
+    - The programmer needs to see the picture and describe it as best as possible in the initial AI prompt. Then there has to be follow-up prompts to refine the code.
+
+We have to own our code beginning to end. If AI creates the code, we have to know what it's doing. If we can't explain it, don't use it. (Go learn it!)
+
+> "It isn't AI slop, it's your slop." - *Snow College SE Advisory Board member*
